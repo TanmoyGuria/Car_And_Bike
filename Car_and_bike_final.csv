@@ -1,0 +1,776 @@
+,Car Name,Kilometers Driven,Fuel Type,Transmission Type,Price,City,Year,Brand
+0,Maruti Suzuki Wagon R,"9,733 km",Petrol,Manual,Rs. 5.25 Lakh,New Delhi,2022,Maruti
+1,Mahindra Scorpio,"17,915 km",Diesel,Manual,Rs. 13.75 Lakh,New Delhi,2022,Mahindra
+2,Maruti Suzuki Vitara Brezza,"27,398 km",Petrol,Manual,Rs. 8.5 Lakh,New Delhi,2022,Maruti
+3,Tata Altroz,"4,900 km",Petrol,Manual,Rs. 9.75 Lakh,New Delhi,2023,Tata
+4,Mahindra XUV300,"27,200 km",Diesel,Manual,Rs. 10.15 Lakh,New Delhi,2022,Mahindra
+5,Toyota Innova Crysta,"16,791 km",Diesel,Manual,Rs. 16.95 Lakh,New Delhi,2021,Toyota
+6,Hyundai i20 N Line,"5,188 km",Petrol,Automatic,Rs. 10.25 Lakh,New Delhi,2022,Hyundai
+7,Kia Seltos,"35,700 km",Petrol,Manual,Rs. 13.75 Lakh,New Delhi,2022,Kia
+8,Mahindra Bolero Neo,"38,000 km",Diesel,Manual,Rs. 9.5 Lakh,New Delhi,2021,Mahindra
+9,MG Astor,"43,189 km",Petrol,Automatic,Rs. 13 Lakh,New Delhi,2022,MG
+10,Tata Safari,"41,085 km",Diesel,Automatic,Rs. 17.95 Lakh,New Delhi,2022,Tata
+11,Maruti Suzuki Ritz,"70,474 km",Petrol,Manual,Rs. 3.65 Lakh,New Delhi,2015,Maruti
+12,Honda City,"53,236 km",Petrol,Manual,Rs. 5 Lakh,New Delhi,2016,Honda
+13,Maruti Suzuki Ertiga,"51,000 km",Petrol+CNG,Manual,Rs. 10.5 Lakh,New Delhi,2021,Maruti
+14,Honda Amaze,"52,878 km",Petrol,Manual,Rs. 5.65 Lakh,New Delhi,2018,Honda
+15,Maruti Suzuki Wagon R,"13,022 km",Petrol,Manual,Rs. 5.65 Lakh,New Delhi,2023,Maruti
+16,Maruti Suzuki Baleno,"50,923 km",Petrol,Manual,Rs. 5.9 Lakh,New Delhi,2018,Maruti
+17,Hyundai i20 Active,"64,278 km",Petrol,Manual,Rs. 6.35 Lakh,New Delhi,2018,Hyundai
+18,Honda Amaze,"55,000 km",Petrol,Automatic,Rs. 6.75 Lakh,New Delhi,2019,Honda
+19,Hyundai Creta,"75,344 km",Petrol,Manual,Rs. 8.25 Lakh,New Delhi,2019,Hyundai
+20,Hyundai Creta,"63,685 km",Petrol,Automatic,Rs. 9.9 Lakh,New Delhi,2019,Hyundai
+21,Maruti Suzuki S-Presso,"27,000 km",Petrol,AMT,Rs. 4.75 Lakh,New Delhi,2021,Maruti
+22,Maruti Suzuki Baleno,"14,600 km",Petrol,Manual,Rs. 7.1 Lakh,New Delhi,2022,Maruti
+23,Tata Punch,"3,600 km",Petrol+CNG,Manual,Rs. 8.75 Lakh,New Delhi,2024,Tata
+24,Maruti Suzuki Baleno,"21,000 km",Petrol,Manual,Rs. 8.9 Lakh,New Delhi,2023,Maruti
+25,Hyundai Verna,"75,000 km",Petrol,Automatic,Rs. 9.5 Lakh,New Delhi,2018,Hyundai
+26,Toyota Innova Crysta,"85,000 km",Diesel,Automatic,Rs. 15.25 Lakh,New Delhi,2018,Toyota
+27,Mahindra Scorpio,"88,787 km",Diesel,Manual,Rs. 2.7 Lakh,New Delhi,2014,Mahindra
+28,Honda Jazz,"65,032 km",Petrol,Automatic,Rs. 5.25 Lakh,New Delhi,2017,Honda
+29,Mahindra XUV500,"62,960 km",Diesel,Manual,Rs. 7.75 Lakh,New Delhi,2017,Mahindra
+30,Honda Elevate,"2,555 km",Petrol,Manual,Rs. 14.9 Lakh,New Delhi,2023,Honda
+31,Toyota Etios,"58,995 km",Petrol,Manual,Rs. 1.9 Lakh,New Delhi,2011,Toyota
+32,Maruti Suzuki Ertiga,"73,790 km",Petrol,Manual,Rs. 5.25 Lakh,New Delhi,2015,Maruti
+33,Honda City ZX,"68,000 km",Petrol,Automatic,Rs. 9.75 Lakh,New Delhi,2018,Honda
+34,Maruti Suzuki Fronx,"8,700 km",Petrol,Manual,Rs. 11.9 Lakh,New Delhi,2023,Maruti
+35,MG Hector,"8,050 km",Petrol,Automatic,Rs. 22.5 Lakh,New Delhi,2023,MG
+36,Maruti Suzuki Wagon R,"26,897 km",Petrol+CNG,Manual,Rs. 5.37 Lakh,New Delhi,2019,Maruti
+37,Maruti Suzuki Wagon R,"45,600 km",Petrol,Manual,Rs. 4.97 Lakh,New Delhi,2019,Maruti
+38,Maruti Suzuki Wagon R,"61,000 km",Petrol,AMT,Rs. 4.65 Lakh,New Delhi,2018,Maruti
+39,Maruti Suzuki Celerio,"8,365 km",Petrol,AMT,Rs. 4.75 Lakh,New Delhi,2017,Maruti
+40,Hyundai New Santro,"23,508 km",Petrol,Manual,Rs. 4.87 Lakh,New Delhi,2019,Hyundai
+41,Maruti Suzuki Dzire,"20,946 km",Petrol,Manual,Rs. 5.5 Lakh,New Delhi,2018,Maruti
+42,Maruti Suzuki Wagon R,"53,585 km",Petrol+CNG,Manual,Rs. 5.87 Lakh,New Delhi,2021,Maruti
+43,Renault Triber,"16,795 km",Petrol,Manual,Rs. 6.47 Lakh,New Delhi,2021,Renault
+44,Honda WR-V,"22,000 km",Petrol,Manual,Rs. 6.97 Lakh,New Delhi,2018,Honda
+45,Hyundai Elite i20,"18,316 km",Petrol,Automatic,Rs. 7.97 Lakh,New Delhi,2020,Hyundai
+46,Nissan Magnite,"23,000 km",Petrol,Manual,Rs. 7.99 Lakh,New Delhi,2022,Nissan
+47,Kia Sonet,"29,518 km",Petrol,Manual,Rs. 9.25 Lakh,New Delhi,2022,Kia
+48,Hyundai Venue,"30,000 km",Petrol,Manual,Rs. 10.45 Lakh,New Delhi,2022,Hyundai
+49,Hyundai Venue N Line,"3,000 km",Petrol,Automatic,Rs. 12.5 Lakh,New Delhi,2022,Hyundai
+50,Hyundai Creta,"17,950 km",Petrol,Manual,Rs. 12.75 Lakh,New Delhi,2022,Hyundai
+51,MG Hector,"27,487 km",Petrol,Automatic,Rs. 13.25 Lakh,New Delhi,2020,MG
+52,MG Astor,"28,083 km",Petrol,Manual,Rs. 13.95 Lakh,New Delhi,2022,MG
+53,Mahindra Thar,"18,600 km",Diesel,Automatic,Rs. 15.77 Lakh,New Delhi,2021,Mahindra
+54,Mahindra Thar,"23,561 km",Petrol,Automatic,Rs. 16.5 Lakh,New Delhi,2022,Mahindra
+55,Kia Seltos,"2,298 km",Petrol,Automatic,Rs. 17.9 Lakh,New Delhi,2024,Kia
+56,Maruti Suzuki Grand Vitara,"20,682 km",Hybrid,Automatic,Rs. 18.95 Lakh,New Delhi,2023,Maruti
+57,Tata Harrier,"23,259 km",Diesel,Automatic,Rs. 19.37 Lakh,New Delhi,2022,Tata
+58,Maruti Suzuki Grand Vitara,"4,812 km",Hybrid,Automatic,Rs. 21.5 Lakh,New Delhi,2024,Maruti
+59,Toyota Camry,"26,000 km",Hybrid,Automatic,Rs. 26.5 Lakh,New Delhi,2018,Toyota
+60,Tata Safari,"29,487 km",Diesel,Automatic,Rs. 18.25 Lakh,New Delhi,2022,Tata
+61,Tata Tiago,"48,000 km",Diesel,Manual,Rs. 4.67 Lakh,New Delhi,2018,Tata
+62,Hyundai Elite i20,"49,002 km",Petrol,Manual,Rs. 6.4 Lakh,New Delhi,2018,Hyundai
+63,Maruti Suzuki Baleno,"37,000 km",Petrol,Automatic,Rs. 6.87 Lakh,New Delhi,2019,Maruti
+64,Tata Altroz,"43,000 km",Petrol,Manual,Rs. 7.67 Lakh,New Delhi,2022,Tata
+65,Toyota Urban Cruiser,"35,226 km",Petrol,Manual,Rs. 9.75 Lakh,New Delhi,2021,Toyota
+66,Mahindra XUV300,"50,000 km",Petrol,Manual,Rs. 9.97 Lakh,New Delhi,2019,Mahindra
+67,Maruti Suzuki XL6,"36,327 km",Petrol,Manual,Rs. 10.57 Lakh,New Delhi,2020,Maruti
+68,Kia Sonet,"31,396 km",Diesel,Manual,Rs. 11.9 Lakh,New Delhi,2022,Kia
+69,MG Astor,"44,183 km",Petrol,Manual,Rs. 13.95 Lakh,New Delhi,2022,MG
+70,Jeep Compass,"39,000 km",Petrol,Automatic,Rs. 14.91 Lakh,New Delhi,2020,Jeep
+71,MG Astor,"40,275 km",Petrol,Manual,Rs. 14.95 Lakh,New Delhi,2023,MG
+72,Mahindra Thar,"38,074 km",Petrol,Automatic,Rs. 15.67 Lakh,New Delhi,2022,Mahindra
+73,Hyundai Elite i20,"70,000 km",Petrol,Manual,Rs. 4.67 Lakh,New Delhi,2015,Hyundai
+74,Maruti Suzuki Baleno,"60,000 km",Petrol,Manual,Rs. 5.14 Lakh,New Delhi,2016,Maruti
+75,Maruti Suzuki Ignis,"60,000 km",Petrol,Manual,Rs. 5.67 Lakh,New Delhi,2019,Maruti
+76,Nissan Magnite,"51,433 km",Petrol,Manual,Rs. 5.97 Lakh,New Delhi,2021,Nissan
+77,Maruti Suzuki Baleno,"55,000 km",Petrol,Automatic,Rs. 6.47 Lakh,New Delhi,2018,Maruti
+78,Maruti Suzuki Baleno,"60,012 km",Petrol,Manual,Rs. 6.5 Lakh,New Delhi,2019,Maruti
+79,Honda Amaze,"52,000 km",Petrol,Manual,Rs. 6.57 Lakh,New Delhi,2019,Honda
+80,Nissan Kicks,"72,000 km",Petrol,Manual,Rs. 6.97 Lakh,New Delhi,2020,Nissan
+81,Honda City,"61,000 km",Petrol,Automatic,Rs. 7.47 Lakh,New Delhi,2016,Honda
+82,Maruti Suzuki Ciaz,"61,000 km",Diesel,Manual,Rs. 7.57 Lakh,New Delhi,2018,Maruti
+83,Tata Nexon,"51,514 km",Petrol,Manual,Rs. 7.75 Lakh,New Delhi,2022,Tata
+84,Tata Nexon,"52,000 km",Petrol,Manual,Rs. 7.87 Lakh,New Delhi,2021,Tata
+85,Volkswagen Vento,"59,624 km",Petrol,Manual,Rs. 7.97 Lakh,New Delhi,2020,Volkswagen
+86,Maruti Suzuki Ertiga,"63,138 km",Petrol,Manual,Rs. 8.67 Lakh,New Delhi,2020,Maruti
+87,Ford EcoSport,"83,843 km",Petrol,Automatic,Rs. 8.87 Lakh,New Delhi,2020,Ford
+88,Volkswagen Polo,"65,833 km",Petrol,Automatic,Rs. 8.95 Lakh,New Delhi,2019,Volkswagen
+89,Hyundai Creta,"83,860 km",Petrol,Manual,Rs. 10.5 Lakh,New Delhi,2019,Hyundai
+90,Skoda Octavia,"54,000 km",Petrol,Automatic,Rs. 14.47 Lakh,New Delhi,2018,Skoda
+91,Hyundai Creta,"60,950 km",Petrol,Automatic,Rs. 16.37 Lakh,New Delhi,2021,Hyundai
+92,Honda City,"50,000 km",Petrol,Manual,Rs. 3.5 Lakh,New Delhi,2013,Honda
+93,Maruti Suzuki S-Presso,"36,000 km",Petrol,Manual,Rs. 4.37 Lakh,New Delhi,2020,Maruti
+94,Maruti Suzuki Wagon R,"44,688 km",Petrol,Manual,Rs. 4.95 Lakh,New Delhi,2020,Maruti
+95,Hyundai Creta,"50,000 km",Petrol,Manual,Rs. 7.7 Lakh,New Delhi,2017,Hyundai
+96,Hyundai Verna,"47,000 km",Petrol,Manual,Rs. 9.57 Lakh,New Delhi,2019,Hyundai
+97,Hyundai Creta,"41,000 km",Petrol,Automatic,Rs. 9.67 Lakh,New Delhi,2017,Hyundai
+98,Honda City,"37,547 km",Petrol,Manual,Rs. 10.95 Lakh,New Delhi,2022,Honda
+99,Kia Seltos,"41,238 km",Petrol,Automatic,Rs. 15.65 Lakh,New Delhi,2021,Kia
+100,Honda City,"93,685 km",Petrol,Manual,Rs. 4.95 Lakh,New Delhi,2014,Honda
+101,Maruti Suzuki Wagon R,"50,324 km",Petrol+CNG,Manual,Rs. 5.25 Lakh,New Delhi,2020,Maruti
+102,Honda Jazz,"52,775 km",Petrol,Manual,Rs. 5.5 Lakh,New Delhi,2017,Honda
+103,Maruti Suzuki Wagon R,"61,602 km",Petrol+CNG,Manual,Rs. 5.5 Lakh,New Delhi,2021,Maruti
+104,Honda Jazz,"57,000 km",Petrol,Automatic,Rs. 6.27 Lakh,New Delhi,2017,Honda
+105,Honda BR-V,"69,000 km",Petrol,Manual,Rs. 6.87 Lakh,New Delhi,2016,Honda
+106,Hyundai Creta,"65,000 km",Petrol,Manual,Rs. 7.47 Lakh,New Delhi,2015,Hyundai
+107,Tata Hexa,"67,000 km",Diesel,Manual,Rs. 8.67 Lakh,New Delhi,2017,Tata
+108,Mahindra XUV300,"50,500 km",Petrol,Manual,Rs. 9.47 Lakh,New Delhi,2019,Mahindra
+109,Honda CR-V,"82,000 km",Petrol,Automatic,Rs. 10.77 Lakh,New Delhi,2015,Honda
+110,MG Hector,"74,428 km",Petrol,Automatic,Rs. 12.95 Lakh,New Delhi,2019,MG
+111,MG Hector Plus,"4,344 km",Petrol,Manual,Rs. 14.65 Lakh,New Delhi,2021,MG
+112,MG Hector,"15,926 km",Petrol,Manual,Rs. 14.65 Lakh,New Delhi,2021,MG
+113,Mahindra Thar,"8,457 km",Petrol,Automatic,Rs. 14.75 Lakh,New Delhi,2024,Mahindra
+114,Toyota Corolla Altis,"62,000 km",Petrol,Automatic,Rs. 14.87 Lakh,New Delhi,2019,Toyota
+115,MG Astor,18 km,Petrol,Manual,Rs. 14.95 Lakh,New Delhi,2024,MG
+116,Hyundai Creta,"26,029 km",Petrol,Manual,Rs. 14.95 Lakh,New Delhi,2023,Hyundai
+117,Mahindra Thar,"24,547 km",Petrol,Automatic,Rs. 14.95 Lakh,New Delhi,2021,Mahindra
+118,Hyundai Verna,"24,000 km",Petrol,Manual,Rs. 15.5 Lakh,New Delhi,2023,Hyundai
+119,MG Hector,"25,000 km",Petrol,Automatic,Rs. 18.47 Lakh,New Delhi,2022,MG
+120,BMW X1,"75,000 km",Diesel,Automatic,Rs. 22.77 Lakh,New Delhi,2018,BMW
+121,MG Hector,"29,111 km",Petrol,Automatic,Rs. 22.95 Lakh,New Delhi,2023,MG
+122,Renault Triber,"42,186 km",Petrol,Manual,Rs. 6.15 Lakh,New Delhi,2019,Renault
+123,Tata Nexon,"38,791 km",Petrol,Manual,Rs. 6.5 Lakh,New Delhi,2018,Tata
+124,Ford EcoSport,"45,088 km",Petrol,Manual,Rs. 6.87 Lakh,New Delhi,2018,Ford
+125,Honda Amaze,"49,000 km",Petrol,Manual,Rs. 7.37 Lakh,New Delhi,2020,Honda
+126,Volkswagen Polo,"42,326 km",Petrol,Manual,Rs. 7.5 Lakh,New Delhi,2020,Volkswagen
+127,Maruti Suzuki Ciaz,"39,000 km",Petrol,Automatic,Rs. 8.47 Lakh,New Delhi,2018,Maruti
+128,Hyundai Verna,"47,278 km",Petrol,Manual,Rs. 9.35 Lakh,New Delhi,2019,Hyundai
+129,Skoda Kushaq,"42,460 km",Petrol,Manual,Rs. 12.65 Lakh,New Delhi,2022,Skoda
+130,Volkswagen Taigun,"31,000 km",Petrol,Automatic,Rs. 13.67 Lakh,New Delhi,2021,Volkswagen
+131,MG Hector,"38,000 km",Petrol,Automatic,Rs. 16.31 Lakh,New Delhi,2020,MG
+132,Mahindra Thar,"30,765 km",Petrol,Automatic,Rs. 16.35 Lakh,New Delhi,2022,Mahindra
+133,Maruti Suzuki Baleno,"74,093 km",Petrol,Manual,Rs. 4.99 Lakh,New Delhi,2016,Maruti
+134,Maruti Suzuki Dzire,"71,034 km",Petrol,AMT,Rs. 5.75 Lakh,New Delhi,2017,Maruti
+135,Renault Triber,"51,223 km",Petrol,Manual,Rs. 6.15 Lakh,New Delhi,2020,Renault
+136,Tata Nexon,"65,212 km",Diesel,AMT,Rs. 6.99 Lakh,New Delhi,2019,Tata
+137,Honda Jazz,"52,000 km",Petrol,Automatic,Rs. 7.25 Lakh,New Delhi,2019,Honda
+138,Mahindra XUV300,"60,068 km",Petrol,Manual,Rs. 7.65 Lakh,New Delhi,2021,Mahindra
+139,Maruti Suzuki Vitara Brezza,"54,597 km",Diesel,Manual,Rs. 7.99 Lakh,New Delhi,2019,Maruti
+140,Hyundai Verna,"56,932 km",Petrol,Automatic,Rs. 8.25 Lakh,New Delhi,2018,Hyundai
+141,Hyundai Creta,"73,420 km",Petrol,Manual,Rs. 8.95 Lakh,New Delhi,2017,Hyundai
+142,Maruti Suzuki Vitara Brezza,"52,545 km",Petrol,Manual,Rs. 8.99 Lakh,New Delhi,2022,Maruti
+143,Hyundai Creta,"59,801 km",Diesel,Manual,Rs. 9 Lakh,New Delhi,2018,Hyundai
+144,Hyundai Creta,"56,007 km",Petrol,Manual,Rs. 9.25 Lakh,New Delhi,2018,Hyundai
+145,Kia Sonet,"76,880 km",Petrol,Manual,Rs. 10.5 Lakh,New Delhi,2021,Kia
+146,Hyundai Creta,"51,184 km",Petrol,Manual,Rs. 12.4 Lakh,New Delhi,2021,Hyundai
+147,Tata Harrier,"73,346 km",Diesel,Manual,Rs. 12.95 Lakh,New Delhi,2019,Tata
+148,Volkswagen Taigun,"53,436 km",Petrol,Automatic,Rs. 13.5 Lakh,New Delhi,2021,Volkswagen
+149,Toyota Innova Crysta,"71,866 km",Diesel,Automatic,Rs. 16.95 Lakh,New Delhi,2019,Toyota
+150,Ford EcoSport,"52,239 km",Petrol,Manual,Rs. 4.95 Lakh,New Delhi,2015,Ford
+151,Tata Altroz,"15,597 km",Petrol,Manual,Rs. 8.89 Lakh,New Delhi,2023,Tata
+152,Honda City,"68,631 km",Petrol,Manual,Rs. 9.25 Lakh,New Delhi,2020,Honda
+153,Maruti Suzuki Ciaz,"21,131 km",Petrol,Manual,Rs. 9.5 Lakh,New Delhi,2022,Maruti
+154,Hyundai Creta,"55,790 km",Petrol,Manual,Rs. 11.95 Lakh,New Delhi,2022,Hyundai
+155,MG Astor,"18,704 km",Petrol,Automatic,Rs. 15.95 Lakh,New Delhi,2024,MG
+156,Skoda Fabia,"70,385 km",Petrol,Manual,Rs. 1.99 Lakh,New Delhi,2011,Skoda
+157,Mahindra XUV500,"70,412 km",Diesel,Automatic,Rs. 9.25 Lakh,New Delhi,2017,Mahindra
+158,Hyundai Creta,"38,475 km",Petrol,Automatic,Rs. 15.5 Lakh,New Delhi,2021,Hyundai
+159,Ford Endeavour,"1,62,344 km",Diesel,Automatic,Rs. 31.95 Lakh,New Delhi,2021,Ford
+160,Maruti Suzuki Swift DZire,"1,08,654 km",Diesel,Manual,Rs. 3.45 Lakh,New Delhi,2016,Maruti
+161,Maruti Suzuki Swift DZire,"96,418 km",Diesel,Manual,Rs. 3.6 Lakh,New Delhi,2013,Maruti
+162,Hyundai Creta,"82,453 km",Diesel,Manual,Rs. 10.6 Lakh,New Delhi,2019,Hyundai
+163,Hyundai i10,"87,000 km",Petrol,Manual,Rs. 2 Lakh,New Delhi,2009,Hyundai
+164,Maruti Suzuki Swift,"25,000 km",Petrol,Manual,Rs. 5.75 Lakh,New Delhi,2019,Maruti
+165,Maruti Suzuki Wagon R,"21,000 km",Petrol+CNG,Manual,Rs. 6.2 Lakh,New Delhi,2022,Maruti
+166,Maruti Suzuki Swift,"17,000 km",Petrol,Manual,Rs. 7.2 Lakh,New Delhi,2020,Maruti
+167,Maruti Suzuki Swift,"43,500 km",Petrol,AMT,Rs. 5.4 Lakh,New Delhi,2018,Maruti
+168,Honda Brio,"25,000 km",Petrol,Manual,Rs. 3.99 Lakh,New Delhi,2016,Honda
+169,Citroen C3,"20,205 km",Petrol,Manual,Rs. 6.99 Lakh,New Delhi,2023,Citroen
+170,Maruti Suzuki Brezza,"26,000 km",Petrol,Manual,Rs. 9.1 Lakh,New Delhi,2022,Maruti
+171,Maruti Suzuki Grand Vitara,"15,000 km",Hybrid,Manual,Rs. 11.4 Lakh,New Delhi,2023,Maruti
+172,Kia Sonet,"21,000 km",Diesel,Automatic,Rs. 13.49 Lakh,New Delhi,2022,Kia
+173,Mahindra Thar,"24,000 km",Petrol,Automatic,Rs. 15 Lakh,New Delhi,2022,Mahindra
+174,Mahindra Thar,"9,000 km",Petrol,Automatic,Rs. 15.49 Lakh,New Delhi,2022,Mahindra
+175,Mahindra Thar,"11,000 km",Diesel,Manual,Rs. 16.5 Lakh,New Delhi,2023,Mahindra
+176,Volkswagen Taigun,"7,000 km",Petrol,Automatic,Rs. 17.49 Lakh,New Delhi,2023,Volkswagen
+177,Hyundai Elite i20,"40,000 km",Petrol,Automatic,Rs. 6.6 Lakh,New Delhi,2018,Hyundai
+178,Hyundai Venue,"32,000 km",Petrol,Manual,Rs. 8.99 Lakh,New Delhi,2022,Hyundai
+179,Honda Jazz,"60,000 km",Petrol,Automatic,Rs. 5.4 Lakh,New Delhi,2017,Honda
+180,Ford EcoSport,"77,500 km",Petrol,Automatic,Rs. 6.6 Lakh,New Delhi,2018,Ford
+181,Tata Altroz,"14,800 km",Petrol,Manual,Rs. 7.2 Lakh,New Delhi,2021,Tata
+182,Hyundai Venue,"62,000 km",Petrol,Automatic,Rs. 8.3 Lakh,New Delhi,2019,Hyundai
+183,Kia Sonet,"21,200 km",Petrol,Manual,Rs. 12.99 Lakh,New Delhi,2022,Kia
+184,Ford Endeavour,"57,000 km",Diesel,Automatic,Rs. 31.5 Lakh,New Delhi,2020,Ford
+185,Hyundai Creta,"73,000 km",Petrol,Manual,Rs. 6.6 Lakh,New Delhi,2016,Hyundai
+186,Honda City,"67,000 km",Petrol,Automatic,Rs. 8 Lakh,New Delhi,2017,Honda
+187,Hyundai Creta,"69,000 km",Petrol,Automatic,Rs. 10.9 Lakh,New Delhi,2019,Hyundai
+188,Hyundai Creta,"20,000 km",Petrol,Manual,Rs. 11.99 Lakh,New Delhi,2022,Hyundai
+189,Mahindra Thar,"6,000 km",Petrol,Automatic,Rs. 14.99 Lakh,New Delhi,2023,Mahindra
+190,Maruti Suzuki Celerio,"31,000 km",Petrol,AMT,Rs. 5.3 Lakh,New Delhi,2020,Maruti
+191,Hyundai Creta,"31,000 km",Petrol,Manual,Rs. 10.9 Lakh,New Delhi,2020,Hyundai
+192,Hyundai Creta,"44,000 km",Diesel,Manual,Rs. 11.25 Lakh,New Delhi,2021,Hyundai
+193,MG Hector,"48,000 km",Petrol,Automatic,Rs. 13.99 Lakh,New Delhi,2020,MG
+194,Maruti Suzuki Wagon R,"55,169 km",Petrol+CNG,Manual,Rs. 5.4 Lakh,New Delhi,2020,Maruti
+195,Datsun Redi GO,"42,800 km",Petrol,Manual,Rs. 2.5 Lakh,New Delhi,2016,Datsun
+196,Hyundai Grand i10,"44,500 km",Petrol,Manual,Rs. 4.65 Lakh,New Delhi,2017,Hyundai
+197,Mahindra XUV300,"45,890 km",Diesel,Manual,Rs. 7.85 Lakh,New Delhi,2019,Mahindra
+198,Maruti Suzuki Ertiga,"47,563 km",Petrol,Manual,Rs. 8.75 Lakh,New Delhi,2019,Maruti
+199,Maruti Suzuki Ignis,"64,499 km",Petrol,Manual,Rs. 4.75 Lakh,New Delhi,2019,Maruti
+200,Honda Amaze,"58,682 km",Petrol,Manual,Rs. 4.75 Lakh,New Delhi,2017,Honda
+201,Maruti Suzuki Celerio,"60,967 km",Petrol+CNG,Manual,Rs. 4.95 Lakh,New Delhi,2020,Maruti
+202,Hyundai Xcent,"63,727 km",Petrol,Automatic,Rs. 5.25 Lakh,New Delhi,2017,Hyundai
+203,Hyundai Creta,"81,000 km",Diesel,Manual,Rs. 7.65 Lakh,New Delhi,2018,Hyundai
+204,Hyundai Creta,"53,847 km",Diesel,Manual,Rs. 8.35 Lakh,New Delhi,2018,Hyundai
+205,Nissan Micra Active,"43,069 km",Petrol,Manual,Rs. 2.65 Lakh,New Delhi,2013,Nissan
+206,Honda Jazz,"67,000 km",Petrol,Manual,Rs. 4.88 Lakh,New Delhi,2016,Honda
+207,Hyundai Creta,"81,000 km",Diesel,Automatic,Rs. 10 Lakh,New Delhi,2018,Hyundai
+208,Kia Seltos,"66,611 km",Diesel,Manual,Rs. 10.25 Lakh,New Delhi,2020,Kia
+209,Mahindra XUV300,"13,753 km",Petrol,Manual,Rs. 10.5 Lakh,New Delhi,2022,Mahindra
+210,Maruti Suzuki Wagon R,"27,522 km",Petrol+CNG,Manual,Rs. 4.25 Lakh,Mumbai,2017,Maruti
+211,Honda City,"29,960 km",Petrol,Automatic,Rs. 8.75 Lakh,Mumbai,2019,Honda
+212,Maruti Suzuki Swift DZire,"46,569 km",Petrol,AMT,Rs. 6.35 Lakh,Mumbai,2017,Maruti
+213,Maruti Suzuki Wagon R,"66,113 km",Petrol,AMT,Rs. 3.95 Lakh,Mumbai,2016,Maruti
+214,Hyundai New Santro,"28,683 km",Petrol,AMT,Rs. 4.85 Lakh,Mumbai,2018,Hyundai
+215,Honda WR-V,"21,000 km",Petrol,Manual,Rs. 6.25 Lakh,Mumbai,2018,Honda
+216,Maruti Suzuki Baleno,"27,021 km",Petrol,Automatic,Rs. 6.75 Lakh,Mumbai,2018,Maruti
+217,Skoda Rapid,"9,638 km",Petrol,Automatic,Rs. 7.95 Lakh,Mumbai,2018,Skoda
+218,Tata Altroz,"20,190 km",Petrol,Manual,Rs. 7.95 Lakh,Mumbai,2022,Tata
+219,Honda WR-V,"20,840 km",Petrol,Manual,Rs. 8.25 Lakh,Mumbai,2020,Honda
+220,Maruti Suzuki S-Cross,"22,485 km",Petrol,Automatic,Rs. 9.95 Lakh,Mumbai,2021,Maruti
+221,Hyundai Venue,"23,683 km",Diesel,Manual,Rs. 10.95 Lakh,Mumbai,2021,Hyundai
+222,Maruti Suzuki XL6,"21,577 km",Petrol,Automatic,Rs. 11.95 Lakh,Mumbai,2021,Maruti
+223,Mahindra Marazzo,"7,798 km",Diesel,Manual,Rs. 13.75 Lakh,Mumbai,2022,Mahindra
+224,Maruti Suzuki Wagon R,"47,847 km",Petrol+CNG,Manual,Rs. 3.45 Lakh,Mumbai,2014,Maruti
+225,Maruti Suzuki Celerio,"31,527 km",Petrol,AMT,Rs. 3.9 Lakh,Mumbai,2014,Maruti
+226,Maruti Suzuki S-Presso,"31,178 km",Petrol,Manual,Rs. 4.95 Lakh,Mumbai,2020,Maruti
+227,Maruti Suzuki Baleno,"40,442 km",Petrol,Manual,Rs. 5.35 Lakh,Mumbai,2017,Maruti
+228,Hyundai i20,"37,360 km",Petrol,Manual,Rs. 5.95 Lakh,Mumbai,2017,Hyundai
+229,Honda BR-V,"40,995 km",Petrol,Manual,Rs. 7.25 Lakh,Mumbai,2017,Honda
+230,Renault Kiger,"33,036 km",Petrol,AMT,Rs. 7.75 Lakh,Mumbai,2022,Renault
+231,Honda WR-V,"41,845 km",Petrol,Manual,Rs. 7.75 Lakh,Mumbai,2018,Honda
+232,Tata Nexon,"49,616 km",Petrol,Manual,Rs. 7.95 Lakh,Mumbai,2020,Tata
+233,Hyundai Venue,"33,000 km",Petrol,Manual,Rs. 9.25 Lakh,Mumbai,2019,Hyundai
+234,Hyundai Venue,"46,107 km",Petrol,Automatic,Rs. 10.65 Lakh,Mumbai,2021,Hyundai
+235,Maruti Suzuki Swift DZire,"57,649 km",Petrol,Manual,Rs. 4.35 Lakh,Mumbai,2014,Maruti
+236,Hyundai Xcent,0 km,Petrol,Manual,Rs. 4.75 Lakh,Mumbai,2015,Hyundai
+237,Honda Jazz,"21,438 km",Petrol,Automatic,Rs. 5.65 Lakh,Mumbai,2016,Honda
+238,Hyundai Grand i10,"59,982 km",Diesel,Manual,Rs. 5.65 Lakh,Mumbai,2017,Hyundai
+239,Maruti Suzuki Swift,"7,00,000 km",Petrol,AMT,Rs. 5.85 Lakh,Mumbai,2018,Maruti
+240,Honda Jazz,"54,767 km",Petrol,Automatic,Rs. 6.45 Lakh,Mumbai,2018,Honda
+241,Honda Jazz,"24,772 km",Petrol,Automatic,Rs. 6.75 Lakh,Mumbai,2018,Honda
+242,Renault Kiger,"27,277 km",Petrol,AMT,Rs. 6.95 Lakh,Mumbai,2021,Renault
+243,Honda WR-V,"59,681 km",Diesel,Manual,Rs. 7.25 Lakh,Mumbai,2017,Honda
+244,Ford EcoSport,"57,234 km",Petrol,Automatic,Rs. 7.45 Lakh,Mumbai,2018,Ford
+245,Maruti Suzuki Ciaz,"67,000 km",Petrol,Manual,Rs. 7.75 Lakh,Mumbai,2018,Maruti
+246,Tata Nexon,"52,912 km",Petrol,AMT,Rs. 8.15 Lakh,Mumbai,2018,Tata
+247,Tata Nexon,"26,355 km",Petrol,AMT,Rs. 8.25 Lakh,Mumbai,2018,Tata
+248,Maruti Suzuki Ciaz,"60,442 km",Petrol,Automatic,Rs. 8.65 Lakh,Mumbai,2019,Maruti
+249,Maruti Suzuki Ciaz,"12,849 km",Petrol,Automatic,Rs. 8.75 Lakh,Mumbai,2018,Maruti
+250,Honda City ZX,"60,236 km",Petrol,Automatic,Rs. 9.65 Lakh,Mumbai,2018,Honda
+251,Datsun Go Plus,"47,235 km",Petrol,Manual,Rs. 2.75 Lakh,Mumbai,2016,Datsun
+252,Volkswagen Polo,"49,229 km",Petrol,Manual,Rs. 4.25 Lakh,Mumbai,2015,Volkswagen
+253,Honda Jazz,"47,649 km",Petrol,Automatic,Rs. 5.55 Lakh,Mumbai,2016,Honda
+254,Hyundai Aura,"37,461 km",Petrol,AMT,Rs. 7 Lakh,Mumbai,2021,Hyundai
+255,Tata Nexon,"48,233 km",Diesel,AMT,Rs. 8.25 Lakh,Mumbai,2018,Tata
+256,Maruti Suzuki S-Presso,"14,769 km",Petrol,AMT,Rs. 4.45 Lakh,Mumbai,2020,Maruti
+257,Hyundai Grand i10,"54,609 km",Petrol,Automatic,Rs. 4.55 Lakh,Mumbai,2015,Hyundai
+258,Hyundai Elite i20,"70,000 km",Diesel,Manual,Rs. 4.8 Lakh,Mumbai,2016,Hyundai
+259,Tata Tiago,"66,877 km",Petrol,AMT,Rs. 4.85 Lakh,Mumbai,2017,Tata
+260,Hyundai i20,"75,457 km",Petrol,Manual,Rs. 5.15 Lakh,Mumbai,2015,Hyundai
+261,Honda City,"71,826 km",Diesel,Manual,Rs. 5.35 Lakh,Mumbai,2014,Honda
+262,Ford EcoSport,"50,232 km",Petrol,Automatic,Rs. 5.65 Lakh,Mumbai,2016,Ford
+263,Tata Tigor,"5,340 km",Petrol,AMT,Rs. 6.15 Lakh,Mumbai,2018,Tata
+264,Maruti Suzuki Baleno,"66,033 km",Petrol,Automatic,Rs. 6.25 Lakh,Mumbai,2017,Maruti
+265,Volkswagen Vento,"28,278 km",Petrol,Automatic,Rs. 6.35 Lakh,Mumbai,2016,Volkswagen
+266,Renault Duster,"68,167 km",Diesel,Manual,Rs. 6.85 Lakh,Mumbai,2016,Renault
+267,Honda City,"52,699 km",Petrol,Automatic,Rs. 6.95 Lakh,Mumbai,2016,Honda
+268,Maruti Suzuki Celerio,"5,128 km",Petrol,AMT,Rs. 7 Lakh,Mumbai,2023,Maruti
+269,Renault Duster,"61,753 km",Diesel,Manual,Rs. 7.45 Lakh,Mumbai,2016,Renault
+270,Maruti Suzuki Ertiga,"80,000 km",Petrol+CNG,Manual,Rs. 7.5 Lakh,Mumbai,2016,Maruti
+271,Honda City ZX,"53,740 km",Petrol,Automatic,Rs. 8.25 Lakh,Mumbai,2017,Honda
+272,Hyundai Creta,"64,829 km",Petrol,Automatic,Rs. 8.95 Lakh,Mumbai,2017,Hyundai
+273,Maruti Suzuki Vitara Brezza,"26,419 km",Diesel,AMT,Rs. 9.15 Lakh,Mumbai,2018,Maruti
+274,Toyota Corolla Altis,"76,225 km",Diesel,Manual,Rs. 9.25 Lakh,Mumbai,2016,Toyota
+275,Hyundai Creta,"51,651 km",Petrol,Manual,Rs. 9.65 Lakh,Mumbai,2018,Hyundai
+276,Skoda Octavia,"62,486 km",Petrol,Automatic,Rs. 9.65 Lakh,Mumbai,2016,Skoda
+277,Mahindra XUV300,"11,801 km",Diesel,Manual,Rs. 10.45 Lakh,Mumbai,2022,Mahindra
+278,Hyundai Creta,"54,284 km",Diesel,Automatic,Rs. 10.75 Lakh,Mumbai,2017,Hyundai
+279,Mahindra XUV500,"87,520 km",Diesel,Manual,Rs. 14.65 Lakh,Mumbai,2019,Mahindra
+280,Skoda Superb,"57,417 km",Diesel,Automatic,Rs. 17.65 Lakh,Mumbai,2016,Skoda
+281,BMW X1,"98,000 km",Diesel,Automatic,Rs. 17.75 Lakh,Mumbai,2016,BMW
+282,Mercedes-Benz GL-Class,"71,518 km",Diesel,Automatic,Rs. 35.5 Lakh,Mumbai,2015,Mercedes-Benz
+283,Renault Kwid,"40,104 km",Petrol,AMT,Rs. 3.65 Lakh,Mumbai,2017,Renault
+284,Honda Amaze,"33,100 km",Petrol,Manual,Rs. 4.25 Lakh,Mumbai,2016,Honda
+285,Maruti Suzuki Celerio,"42,460 km",Petrol+CNG,Manual,Rs. 4.9 Lakh,Mumbai,2018,Maruti
+286,Maruti Suzuki Celerio,"38,338 km",Petrol,AMT,Rs. 5.35 Lakh,Mumbai,2018,Maruti
+287,Renault Duster,"32,147 km",Diesel,Manual,Rs. 5.75 Lakh,Mumbai,2015,Renault
+288,Hyundai i20,"39,436 km",Petrol,Manual,Rs. 5.95 Lakh,Mumbai,2016,Hyundai
+289,Volkswagen Vento,"48,090 km",Petrol,Automatic,Rs. 6.35 Lakh,Mumbai,2015,Volkswagen
+290,Hyundai Grand i10,"32,361 km",Petrol,Automatic,Rs. 6.45 Lakh,Mumbai,2019,Hyundai
+291,Tata Nexon,"32,535 km",Diesel,AMT,Rs. 7.65 Lakh,Mumbai,2018,Tata
+292,Honda City,"43,620 km",Petrol,Automatic,Rs. 7.75 Lakh,Mumbai,2017,Honda
+293,Maruti Suzuki Vitara Brezza,"49,313 km",Diesel,Manual,Rs. 7.75 Lakh,Mumbai,2018,Maruti
+294,Tata Nexon,"41,125 km",Petrol,Manual,Rs. 9.45 Lakh,Mumbai,2019,Tata
+295,Honda City,"34,093 km",Petrol,Manual,Rs. 10.8 Lakh,Mumbai,2020,Honda
+296,Hyundai Creta,"44,355 km",Petrol,Automatic,Rs. 11.35 Lakh,Mumbai,2018,Hyundai
+297,Hyundai Xcent,"49,029 km",Petrol,Manual,Rs. 5.45 Lakh,Mumbai,2017,Hyundai
+298,Honda City,"33,889 km",Petrol,Automatic,Rs. 8.2 Lakh,Mumbai,2019,Honda
+299,Maruti Suzuki Swift DZire,"67,944 km",Petrol,AMT,Rs. 3.95 Lakh,Mumbai,2012,Maruti
+300,Volkswagen Vento,"79,906 km",Petrol,Automatic,Rs. 4.55 Lakh,Mumbai,2014,Volkswagen
+301,Volkswagen Polo,"83,906 km",Petrol,Manual,Rs. 4.75 Lakh,Mumbai,2014,Volkswagen
+302,Ford EcoSport,"53,037 km",Petrol,Automatic,Rs. 5.1 Lakh,Mumbai,2014,Ford
+303,Ford Freestyle,"50,873 km",Petrol,Manual,Rs. 5.45 Lakh,Mumbai,2018,Ford
+304,Hyundai Verna,"54,375 km",Petrol,Automatic,Rs. 5.95 Lakh,Mumbai,2015,Hyundai
+305,Volkswagen Ameo,"50,013 km",Diesel,Manual,Rs. 6.25 Lakh,Mumbai,2016,Volkswagen
+306,Hyundai Verna,"60,085 km",Petrol,Automatic,Rs. 6.75 Lakh,Mumbai,2016,Hyundai
+307,Honda BR-V,"58,172 km",Petrol,Automatic,Rs. 6.85 Lakh,Mumbai,2016,Honda
+308,Maruti Suzuki Vitara Brezza,"70,638 km",Diesel,Manual,Rs. 7.9 Lakh,Mumbai,2019,Maruti
+309,Hyundai Creta,"75,213 km",Petrol,Manual,Rs. 7.95 Lakh,Mumbai,2016,Hyundai
+310,Hyundai Venue,"60,000 km",Petrol,Manual,Rs. 8.5 Lakh,Mumbai,2019,Hyundai
+311,Hyundai Creta,"56,769 km",Petrol,Automatic,Rs. 8.55 Lakh,Mumbai,2016,Hyundai
+312,Hyundai Creta,"59,478 km",Petrol,Manual,Rs. 8.55 Lakh,Mumbai,2017,Hyundai
+313,Hyundai Creta,"65,657 km",Petrol,Automatic,Rs. 8.65 Lakh,Mumbai,2016,Hyundai
+314,Tata Nexon EV,"17,831 km",Electric,Automatic,Rs. 11.25 Lakh,Mumbai,2022,Tata
+315,Kia Seltos,"58,246 km",Petrol,Automatic,Rs. 12.95 Lakh,Mumbai,2019,Kia
+316,Mercedes-Benz M-Class,"98,774 km",Diesel,Automatic,Rs. 21.75 Lakh,Mumbai,2015,Mercedes-Benz
+317,Toyota Innova Crysta,"59,088 km",Diesel,Manual,Rs. 22 Lakh,Mumbai,2021,Toyota
+318,Honda City,"36,155 km",Petrol,Manual,Rs. 9.95 Lakh,Mumbai,2020,Honda
+319,Nissan Terrano,"88,017 km",Diesel,Manual,Rs. 4.75 Lakh,Mumbai,2013,Nissan
+320,Skoda Rapid,"78,107 km",Petrol,Automatic,Rs. 5.25 Lakh,Mumbai,2015,Skoda
+321,Skoda Rapid,"63,333 km",Diesel,Manual,Rs. 5.35 Lakh,Mumbai,2015,Skoda
+322,Ford EcoSport,"66,129 km",Petrol,Automatic,Rs. 5.65 Lakh,Mumbai,2015,Ford
+323,Maruti Suzuki Ciaz,"74,651 km",Diesel,Manual,Rs. 6.25 Lakh,Mumbai,2016,Maruti
+324,Hyundai Verna,"52,215 km",Diesel,Automatic,Rs. 6.45 Lakh,Mumbai,2016,Hyundai
+325,Renault Duster,"62,140 km",Diesel,AMT,Rs. 7.75 Lakh,Mumbai,2017,Renault
+326,Maruti Suzuki Ertiga,"53,081 km",Diesel,Manual,Rs. 8.15 Lakh,Mumbai,2016,Maruti
+327,Toyota Corolla Altis,"63,503 km",Petrol,Automatic,Rs. 10.35 Lakh,Mumbai,2018,Toyota
+328,Maruti Suzuki Dzire,"59,485 km",Petrol,AMT,Rs. 5.8 Lakh,Mumbai,2017,Maruti
+329,Skoda Rapid,"38,104 km",Petrol,Automatic,Rs. 6.45 Lakh,Mumbai,2016,Skoda
+330,Mahindra Bolero,"17,000 km",Diesel,Manual,Rs. 10.15 Lakh,Bangalore,2022,Mahindra
+331,Maruti Suzuki Wagon R,"46,400 km",Petrol,Manual,Rs. 3.95 Lakh,Bangalore,2014,Maruti
+332,Maruti Suzuki Alto K10,"29,026 km",Petrol,AMT,Rs. 3.75 Lakh,Bangalore,2016,Maruti
+333,Maruti Suzuki Celerio,"28,800 km",Petrol,AMT,Rs. 4.65 Lakh,Bangalore,2015,Maruti
+334,Tata Tiago,"29,439 km",Petrol,Manual,Rs. 5.25 Lakh,Bangalore,2017,Tata
+335,Maruti Suzuki Swift,"65,450 km",Petrol,Manual,Rs. 5.85 Lakh,Bangalore,2018,Maruti
+336,Maruti Suzuki Swift DZire,"53,300 km",Petrol,Manual,Rs. 6.45 Lakh,Bangalore,2018,Maruti
+337,Citroen C3,"22,210 km",Petrol,Manual,Rs. 6.45 Lakh,Bangalore,2022,Citroen
+338,Renault Triber,"21,249 km",Petrol,Manual,Rs. 6.95 Lakh,Bangalore,2019,Renault
+339,Toyota Glanza,"23,600 km",Petrol,Automatic,Rs. 7.95 Lakh,Bangalore,2019,Toyota
+340,Tata Nexon,"9,686 km",Petrol,AMT,Rs. 9 Lakh,Bangalore,2019,Tata
+341,Mahindra Thar,"16,353 km",Petrol,Manual,Rs. 16.25 Lakh,Bangalore,2022,Mahindra
+342,Hyundai Alcazar,"28,015 km",Petrol,Manual,Rs. 16.5 Lakh,Bangalore,2022,Hyundai
+343,Mahindra Scorpio Classic,"13,568 km",Diesel,Manual,Rs. 18 Lakh,Bangalore,2023,Mahindra
+344,Mahindra Scorpio-N,"13,786 km",Diesel,Manual,Rs. 25 Lakh,Bangalore,2022,Mahindra
+345,Renault Kwid,"49,990 km",Petrol,Manual,Rs. 3.45 Lakh,Bangalore,2016,Renault
+346,Maruti Suzuki Celerio,"31,200 km",Petrol,AMT,Rs. 4.3 Lakh,Bangalore,2016,Maruti
+347,Hyundai Grand i10,"32,758 km",Petrol,Manual,Rs. 4.9 Lakh,Bangalore,2017,Hyundai
+348,Maruti Suzuki Swift DZire,"31,944 km",Petrol,Manual,Rs. 5.25 Lakh,Bangalore,2015,Maruti
+349,Tata Tiago,"34,709 km",Petrol,Manual,Rs. 5.35 Lakh,Bangalore,2018,Tata
+350,Honda Jazz,"48,787 km",Petrol,Manual,Rs. 5.45 Lakh,Bangalore,2017,Honda
+351,Tata Tiago,"43,700 km",Diesel,Manual,Rs. 5.85 Lakh,Bangalore,2018,Tata
+352,Honda Jazz,"40,700 km",Petrol,Manual,Rs. 5.9 Lakh,Bangalore,2015,Honda
+353,Volkswagen Polo,"47,538 km",Petrol,Manual,Rs. 6 Lakh,Bangalore,2016,Volkswagen
+354,Hyundai i20 Active,"36,460 km",Petrol,Manual,Rs. 6.25 Lakh,Bangalore,2016,Hyundai
+355,Tata Tigor,"42,050 km",Petrol,AMT,Rs. 6.35 Lakh,Bangalore,2018,Tata
+356,Tata Tiago,"31,500 km",Petrol,AMT,Rs. 6.75 Lakh,Bangalore,2019,Tata
+357,Tata Tiago,"37,600 km",Petrol,AMT,Rs. 6.95 Lakh,Bangalore,2020,Tata
+358,Mahindra TUV300,"48,750 km",Diesel,AMT,Rs. 7.25 Lakh,Bangalore,2017,Mahindra
+359,Tata Altroz,"31,195 km",Petrol,Manual,Rs. 7.95 Lakh,Bangalore,2021,Tata
+360,Hyundai Elite i20,"39,192 km",Petrol,Automatic,Rs. 7.95 Lakh,Bangalore,2019,Hyundai
+361,Hyundai Venue,"31,801 km",Petrol,Manual,Rs. 8.25 Lakh,Bangalore,2020,Hyundai
+362,Hyundai Creta,"36,680 km",Petrol,Manual,Rs. 9.75 Lakh,Bangalore,2016,Hyundai
+363,Mahindra Thar,"32,000 km",Diesel,Manual,Rs. 16.5 Lakh,Bangalore,2022,Mahindra
+364,Mahindra XUV700,"32,145 km",Petrol,Automatic,Rs. 25 Lakh,Bangalore,2022,Mahindra
+365,Mahindra XUV700,"32,000 km",Petrol,Automatic,Rs. 25 Lakh,Bangalore,2022,Mahindra
+366,Hyundai Grand i10,"53,285 km",Petrol,Automatic,Rs. 5.35 Lakh,Bangalore,2017,Hyundai
+367,Volkswagen Ameo,"54,525 km",Petrol,Manual,Rs. 6.15 Lakh,Bangalore,2019,Volkswagen
+368,Hyundai Elite i20,"82,848 km",Diesel,Manual,Rs. 6.4 Lakh,Bangalore,2018,Hyundai
+369,Hyundai Elite i20,"62,710 km",Petrol,Manual,Rs. 6.45 Lakh,Bangalore,2017,Hyundai
+370,Tata Altroz,"64,459 km",Petrol,Manual,Rs. 7.25 Lakh,Bangalore,2021,Tata
+371,Tata Nexon,"54,767 km",Petrol,AMT,Rs. 7.95 Lakh,Bangalore,2019,Tata
+372,Maruti Suzuki S-Cross,"51,737 km",Diesel,Manual,Rs. 8.45 Lakh,Bangalore,2017,Maruti
+373,Maruti Suzuki Vitara Brezza,"81,451 km",Diesel,Manual,Rs. 8.75 Lakh,Bangalore,2017,Maruti
+374,Hyundai Creta,"57,093 km",Petrol,Automatic,Rs. 11.25 Lakh,Bangalore,2018,Hyundai
+375,Honda Jazz,"32,051 km",Diesel,Manual,Rs. 5.75 Lakh,Bangalore,2016,Honda
+376,Honda Jazz,"47,660 km",Petrol,Automatic,Rs. 6.55 Lakh,Bangalore,2016,Honda
+377,Renault Triber,"32,485 km",Petrol,Manual,Rs. 6.85 Lakh,Bangalore,2019,Renault
+378,Maruti Suzuki Swift,"42,404 km",Petrol,AMT,Rs. 6.95 Lakh,Bangalore,2018,Maruti
+379,Maruti Suzuki Ertiga,"42,217 km",Petrol,Manual,Rs. 7.75 Lakh,Bangalore,2017,Maruti
+380,Tata Nano,"17,000 km",Petrol,AMT,Rs. 2.8 Lakh,Bangalore,2016,Tata
+381,Nissan Micra Active,"17,511 km",Petrol,Manual,Rs. 3.75 Lakh,Bangalore,2015,Nissan
+382,Ford Fiesta Classic,"54,350 km",Diesel,Manual,Rs. 3.95 Lakh,Bangalore,2014,Ford
+383,Maruti Suzuki S-Presso,"27,629 km",Petrol,Manual,Rs. 4.95 Lakh,Bangalore,2021,Maruti
+384,Renault Kwid,"4,150 km",Petrol,AMT,Rs. 5.25 Lakh,Bangalore,2020,Renault
+385,Maruti Suzuki Celerio,"25,545 km",Petrol,Manual,Rs. 5.35 Lakh,Bangalore,2019,Maruti
+386,Tata Altroz,"25,705 km",Petrol,Manual,Rs. 5.95 Lakh,Bangalore,2020,Tata
+387,Maruti Suzuki Ciaz,"56,710 km",Petrol,Manual,Rs. 6.45 Lakh,Bangalore,2016,Maruti
+388,Volkswagen Ameo,"29,413 km",Petrol,Manual,Rs. 6.5 Lakh,Bangalore,2018,Volkswagen
+389,Maruti Suzuki Baleno,"54,013 km",Petrol,Manual,Rs. 6.85 Lakh,Bangalore,2017,Maruti
+390,Hyundai Grand i10,"35,100 km",Petrol,Automatic,Rs. 5.95 Lakh,Bangalore,2016,Hyundai
+391,Maruti Suzuki Ciaz,"45,483 km",Petrol,Manual,Rs. 6.2 Lakh,Bangalore,2015,Maruti
+392,Renault Duster,"48,950 km",Petrol,Manual,Rs. 6.95 Lakh,Bangalore,2017,Renault
+393,Maruti Suzuki Baleno,"42,341 km",Petrol,Automatic,Rs. 7.25 Lakh,Bangalore,2018,Maruti
+394,Tata Nexon,"45,226 km",Petrol,Manual,Rs. 7.55 Lakh,Bangalore,2018,Tata
+395,Maruti Suzuki Baleno,"31,185 km",Petrol,Manual,Rs. 7.75 Lakh,Bangalore,2021,Maruti
+396,Maruti Suzuki Baleno,"32,000 km",Petrol,Manual,Rs. 9.25 Lakh,Bangalore,2022,Maruti
+397,Hyundai Fluidic Verna,"93,898 km",Diesel,Automatic,Rs. 4.5 Lakh,Bangalore,2012,Hyundai
+398,Hyundai Grand i10,"52,708 km",Diesel,Manual,Rs. 4.5 Lakh,Bangalore,2014,Hyundai
+399,Ford Figo,"57,091 km",Diesel,Manual,Rs. 5.55 Lakh,Bangalore,2017,Ford
+400,Renault Lodgy,"67,046 km",Diesel,Manual,Rs. 6.1 Lakh,Bangalore,2015,Renault
+401,Volkswagen Polo,"53,450 km",Petrol,Automatic,Rs. 6.45 Lakh,Bangalore,2014,Volkswagen
+402,Maruti Suzuki Baleno,"72,065 km",Petrol,Manual,Rs. 6.5 Lakh,Bangalore,2019,Maruti
+403,Renault Duster,"71,603 km",Diesel,Manual,Rs. 6.65 Lakh,Bangalore,2015,Renault
+404,Volkswagen Ameo,"70,554 km",Diesel,Manual,Rs. 6.75 Lakh,Bangalore,2017,Volkswagen
+405,Mahindra XUV500,"87,841 km",Diesel,Manual,Rs. 8.45 Lakh,Bangalore,2015,Mahindra
+406,Mahindra XUV500,"64,600 km",Diesel,Manual,Rs. 8.95 Lakh,Bangalore,2014,Mahindra
+407,Mahindra XUV500,"58,833 km",Diesel,Manual,Rs. 9.15 Lakh,Bangalore,2015,Mahindra
+408,Hyundai Venue,"51,154 km",Diesel,Manual,Rs. 9.45 Lakh,Bangalore,2019,Hyundai
+409,Mahindra XUV500,"39,685 km",Diesel,Automatic,Rs. 10 Lakh,Bangalore,2017,Mahindra
+410,Mahindra XUV500,"44,623 km",Diesel,Manual,Rs. 11 Lakh,Bangalore,2015,Mahindra
+411,Volkswagen Polo,"1,01,426 km",Diesel,Manual,Rs. 3.75 Lakh,Bangalore,2012,Volkswagen
+412,Skoda Rapid,"89,480 km",Diesel,Manual,Rs. 3.95 Lakh,Bangalore,2012,Skoda
+413,Skoda Rapid,"1,00,900 km",Diesel,Manual,Rs. 4.25 Lakh,Bangalore,2012,Skoda
+414,Skoda Rapid,"1,01,909 km",Diesel,Manual,Rs. 4.5 Lakh,Bangalore,2012,Skoda
+415,Mahindra XUV500,"67,146 km",Diesel,Manual,Rs. 9.5 Lakh,Bangalore,2014,Mahindra
+416,Hyundai Grand i10,"37,888 km",Petrol,Manual,Rs. 4.7 Lakh,Bangalore,2015,Hyundai
+417,Ford EcoSport,"71,490 km",Diesel,Manual,Rs. 7.25 Lakh,Bangalore,2016,Ford
+418,Maruti Suzuki S-Cross,"58,000 km",Diesel,Manual,₹ 8.25 L,Bangalore,2018,Maruti
+419,Honda City,"16,062 km",Petrol,Manual,Rs. 7 Lakh,Kolkata,2018,Honda
+420,Maruti Suzuki Swift DZire,"33,991 km",Petrol,Manual,Rs. 4.5 Lakh,Kolkata,2018,Maruti
+421,Mahindra KUV100,"21,500 km",Petrol,Manual,Rs. 3.5 Lakh,Kolkata,2017,Mahindra
+422,Maruti Suzuki Swift,"75,000 km",Diesel,Manual,Rs. 5.5 Lakh,Kolkata,2018,Maruti
+423,Hyundai Verna,"26,884 km",Petrol,Manual,Rs. 5.5 Lakh,Kolkata,2018,Hyundai
+424,Hyundai i20,"29,988 km",Petrol,Manual,Rs. 7.25 Lakh,Kolkata,2021,Hyundai
+425,Hyundai Tucson,"12,241 km",Petrol,Manual,Rs. 7.75 Lakh,Kolkata,2018,Hyundai
+426,Kia Carens,"19,652 km",Petrol,Manual,Rs. 12 Lakh,Kolkata,2023,Kia
+427,Mahindra Thar,"10,495 km",Diesel,Manual,Rs. 14.5 Lakh,Kolkata,2023,Mahindra
+428,Mahindra Thar,"15,800 km",Diesel,Manual,Rs. 14.5 Lakh,Kolkata,2023,Mahindra
+429,Datsun Redi GO,"38,664 km",Petrol,Manual,Rs. 2 Lakh,Kolkata,2018,Datsun
+430,Mahindra XUV300,"42,028 km",Diesel,Manual,Rs. 8.5 Lakh,Kolkata,2019,Mahindra
+431,Honda Amaze,"58,856 km",Petrol,Manual,Rs. 2.99 Lakh,Kolkata,2016,Honda
+432,Maruti Suzuki Swift DZire,"25,448 km",Diesel,Manual,Rs. 3.5 Lakh,Kolkata,2017,Maruti
+433,Mahindra KUV100,"55,872 km",Diesel,Manual,Rs. 3.5 Lakh,Kolkata,2017,Mahindra
+434,Ford EcoSport,"65,200 km",Diesel,Manual,Rs. 4.25 Lakh,Kolkata,2017,Ford
+435,Maruti Suzuki Swift,"4,20,000 km",Petrol,Manual,Rs. 5 Lakh,Kolkata,2018,Maruti
+436,Ford EcoSport,"26,200 km",Petrol,Manual,Rs. 5.5 Lakh,Kolkata,2021,Ford
+437,Tata Nexon,"61,218 km",Petrol,Manual,Rs. 6 Lakh,Kolkata,2018,Tata
+438,Maruti Suzuki Ciaz,"86,000 km",Petrol,Manual,Rs. 6.5 Lakh,Kolkata,2017,Maruti
+439,Mahindra XUV500,"73,978 km",Diesel,Manual,Rs. 9.75 Lakh,Kolkata,2020,Mahindra
+440,Maruti Suzuki Swift DZire,"42,551 km",Diesel,Manual,Rs. 3.85 Lakh,Kolkata,2017,Maruti
+441,Mahindra XUV300,"38,855 km",Petrol,Manual,Rs. 9.5 Lakh,Kolkata,2020,Mahindra
+442,Jeep Compass,"47,853 km",Diesel,Manual,Rs. 11.5 Lakh,Kolkata,2019,Jeep
+443,Maruti Suzuki Wagon R,"83,665 km",Petrol,Manual,Rs. 4.85 Lakh,Kolkata,2019,Maruti
+444,Maruti Suzuki Swift,"55,214 km",Petrol,Manual,Rs. 5 Lakh,Kolkata,2020,Maruti
+445,Honda Amaze,"27,123 km",Petrol,Manual,Rs. 5.75 Lakh,Kolkata,2023,Honda
+446,Hyundai Creta,"85,112 km",Diesel,Manual,Rs. 6 Lakh,Kolkata,2015,Hyundai
+447,Hyundai Creta,"81,339 km",Diesel,Manual,Rs. 9 Lakh,Kolkata,2018,Hyundai
+448,Mahindra XUV300,"26,600 km",Petrol,Manual,Rs. 9 Lakh,Kolkata,2021,Mahindra
+449,Mahindra XUV500,"98,152 km",Diesel,Manual,Rs. 9.5 Lakh,Kolkata,2018,Mahindra
+450,Hyundai Creta,"21,072 km",Petrol,Manual,Rs. 10 Lakh,Kolkata,2019,Hyundai
+451,Mahindra Thar,"25,885 km",Diesel,Manual,Rs. 12 Lakh,Kolkata,2020,Mahindra
+452,Mahindra XUV700,245 km,Diesel,Automatic,Rs. 28.3 Lakh,Kolkata,2024,Mahindra
+453,Maruti Suzuki Wagon R,"65,221 km",Petrol,Manual,Rs. 3.5 Lakh,Kolkata,2017,Maruti
+454,Maruti Suzuki Wagon R,"77,412 km",Petrol,Manual,Rs. 3.75 Lakh,Kolkata,2017,Maruti
+455,Maruti Suzuki A-Star,"47,280 km",Petrol,Manual,Rs. 1.8 Lakh,Kolkata,2011,Maruti
+456,Hyundai Verna,"45,825 km",Petrol,Manual,Rs. 2 Lakh,Kolkata,2009,Hyundai
+457,Maruti Suzuki Vitara Brezza,"48,966 km",Petrol,Manual,Rs. 6.15 Lakh,Kolkata,2020,Maruti
+458,Chevrolet Sail UVA,"1,03,990 km",Petrol,Manual,Rs. 1.45 Lakh,Kolkata,2013,Chevrolet
+459,Hyundai EON,"65,236 km",Petrol,Manual,Rs. 1.5 Lakh,Kolkata,2016,Hyundai
+460,Hyundai EON,"85,236 km",Petrol,Manual,Rs. 1.85 Lakh,Kolkata,2018,Hyundai
+461,Maruti Suzuki Celerio,"66,200 km",Diesel,Manual,Rs. 2.09 Lakh,Kolkata,2016,Maruti
+462,Nissan Terrano,"70,172 km",Diesel,Manual,Rs. 3.49 Lakh,Kolkata,2015,Nissan
+463,Hyundai Fluidic Verna,"90,633 km",Diesel,Manual,Rs. 4 Lakh,Kolkata,2014,Hyundai
+464,Hyundai Creta,"54,269 km",Petrol,Manual,Rs. 6 Lakh,Kolkata,2016,Hyundai
+465,Mahindra XUV500,"78,185 km",Diesel,Manual,Rs. 6.25 Lakh,Kolkata,2015,Mahindra
+466,Renault Duster,"1,10,000 km",Diesel,Manual,Rs. 6.5 Lakh,Kolkata,2018,Renault
+467,Mahindra XUV500,"76,200 km",Diesel,Manual,Rs. 6.5 Lakh,Kolkata,2016,Mahindra
+468,Hyundai EON,"75,845 km",Petrol,Manual,Rs. 2.25 Lakh,Kolkata,2017,Hyundai
+469,Mahindra KUV100,"53,758 km",Petrol,Manual,Rs. 2.25 Lakh,Kolkata,2016,Mahindra
+470,Hyundai i20,"85,214 km",Petrol,Manual,Rs. 3.25 Lakh,Kolkata,2013,Hyundai
+471,Ford EcoSport,"58,854 km",Diesel,Manual,Rs. 3.7 Lakh,Kolkata,2016,Ford
+472,Nissan Terrano,"42,012 km",Diesel,Manual,Rs. 3.5 Lakh,Kolkata,2014,Nissan
+473,SsangYong Rexton W,"57,965 km",Diesel,Automatic,Rs. 3.75 Lakh,Kolkata,2014,SsangYong
+474,Tata Nexon EV,"43,571 km",Electric,Automatic,Rs. 13.1 Lakh,Chennai,2021,Tata
+475,Mahindra KUV100,"74,472 km",Petrol,Manual,Rs. 3.5 Lakh,Chennai,2016,Mahindra
+476,Hyundai Grand i10,"88,000 km",Petrol,Manual,Rs. 4.75 Lakh,Chennai,2019,Hyundai
+477,Volkswagen Ameo,"62,000 km",Petrol,Manual,Rs. 5.25 Lakh,Chennai,2017,Volkswagen
+478,Honda Jazz,"20,565 km",Petrol,Manual,Rs. 6.2 Lakh,Chennai,2017,Honda
+479,Maruti Suzuki Swift,"55,000 km",Petrol,Manual,Rs. 6.25 Lakh,Chennai,2019,Maruti
+480,Maruti Suzuki Swift,"79,000 km",Diesel,Manual,Rs. 7 Lakh,Chennai,2019,Maruti
+481,Nissan Magnite,"14,000 km",Petrol,Manual,Rs. 7.1 Lakh,Chennai,2022,Nissan
+482,Honda Amaze,"52,008 km",Diesel,Automatic,Rs. 7.8 Lakh,Chennai,2019,Honda
+483,Hyundai Elite i20,"28,522 km",Petrol,Manual,Rs. 8.35 Lakh,Chennai,2021,Hyundai
+484,Honda City,"25,000 km",Petrol,Manual,Rs. 9.5 Lakh,Chennai,2022,Honda
+485,Mahindra XUV500,"79,000 km",Diesel,Automatic,Rs. 15.5 Lakh,Chennai,2021,Mahindra
+486,Maruti Suzuki Swift,"38,581 km",Petrol,Manual,Rs. 4.1 Lakh,Chennai,2015,Maruti
+487,Hyundai EON,"74,777 km",Petrol,Manual,Rs. 3.25 Lakh,Chennai,2014,Hyundai
+488,Renault Captur,"71,567 km",Diesel,Manual,Rs. 6.95 Lakh,Chennai,2018,Renault
+489,Honda City ZX,"59,365 km",Petrol,Manual,Rs. 10.3 Lakh,Chennai,2019,Honda
+490,Mahindra Bolero Neo,"28,343 km",Diesel,Manual,Rs. 12.75 Lakh,Chennai,2021,Mahindra
+491,Mahindra XUV700,"20,580 km",Petrol,Automatic,Rs. 26 Lakh,Chennai,2021,Mahindra
+492,Renault Kwid,"38,108 km",Petrol,Manual,Rs. 3.25 Lakh,Chennai,2016,Renault
+493,Honda WR-V,"37,480 km",Petrol,Manual,Rs. 7.25 Lakh,Chennai,2017,Honda
+494,Honda CR-V,"58,000 km",Petrol,Manual,Rs. 2.2 Lakh,Chennai,2011,Honda
+495,Hyundai i10,"1,29,000 km",Petrol+LPG,Manual,Rs. 2.25 Lakh,Chennai,2012,Hyundai
+496,Maruti Suzuki Swift,"1,43,000 km",Petrol,Manual,Rs. 2.5 Lakh,Chennai,2009,Maruti
+497,Ford Figo Aspire,"68,000 km",Diesel,Manual,Rs. 4.5 Lakh,Chennai,2015,Ford
+498,Honda Amaze,"81,036 km",Petrol,Manual,Rs. 4.7 Lakh,Chennai,2018,Honda
+499,Maruti Suzuki Swift,"1,14,000 km",Diesel,AMT,Rs. 6.6 Lakh,Chennai,2019,Maruti
+500,Hyundai Verna,"66,029 km",Diesel,Automatic,Rs. 8.45 Lakh,Chennai,2018,Hyundai
+501,Mahindra XUV500,"83,291 km",Diesel,Manual,Rs. 8.85 Lakh,Chennai,2014,Mahindra
+502,Audi A4,"58,786 km",Diesel,Automatic,Rs. 14 Lakh,Chennai,2015,Audi
+503,Maruti Suzuki Swift,"51,842 km",Diesel,Manual,Rs. 3.2 Lakh,Chennai,2016,Maruti
+504,Nissan Micra,"25,848 km",Petrol,AMT,Rs. 3.7 Lakh,Chennai,2018,Nissan
+505,Maruti Suzuki Wagon R,"70,301 km",Petrol,AMT,Rs. 3.8 Lakh,Chennai,2016,Maruti
+506,Ford Figo Aspire,"1,05,512 km",Diesel,Manual,Rs. 4.5 Lakh,Chennai,2017,Ford
+507,Mahindra XUV500,"1,50,000 km",Diesel,Manual,Rs. 5.75 Lakh,Chennai,2013,Mahindra
+508,Maruti Suzuki Swift DZire,"54,844 km",Diesel,Manual,Rs. 6.2 Lakh,Chennai,2016,Maruti
+509,Renault Triber,"26,525 km",Petrol,Manual,Rs. 6.5 Lakh,Chennai,2020,Renault
+510,Hyundai Grand i10 Nios,"9,775 km",Petrol,Manual,Rs. 6.8 Lakh,Chennai,2019,Hyundai
+511,Honda City,"50,597 km",Petrol,Manual,Rs. 7.2 Lakh,Chennai,2016,Honda
+512,Maruti Suzuki Ertiga,"1,21,000 km",Diesel,Manual,Rs. 7.5 Lakh,Chennai,2014,Maruti
+513,Maruti Suzuki Omni,"7,500 km",Petrol,Manual,Rs. 9.75 Lakh,Chennai,2021,Maruti
+514,Hyundai Creta,"13,440 km",Petrol,Automatic,Rs. 12.5 Lakh,Chennai,2019,Hyundai
+515,Mahindra XUV500,"1,00,000 km",Diesel,Manual,Rs. 8 Lakh,Chennai,2014,Mahindra
+516,Mahindra XUV500,"1,47,000 km",Diesel,Manual,Rs. 7 Lakh,Chennai,2014,Mahindra
+517,Hyundai EON,"35,625 km",Petrol,Manual,Rs. 2.3 Lakh,Chennai,2017,Hyundai
+518,Maruti Suzuki Celerio,"44,814 km",Petrol,AMT,Rs. 4.05 Lakh,Chennai,2016,Maruti
+519,Honda Jazz,"42,525 km",Petrol,Manual,Rs. 4.95 Lakh,Chennai,2016,Honda
+520,Honda BR-V,"48,081 km",Petrol,Manual,Rs. 6.6 Lakh,Chennai,2016,Honda
+521,Maruti Suzuki S-Cross,"42,700 km",Diesel,Manual,Rs. 9 Lakh,Chennai,2019,Maruti
+522,Hyundai Creta,"55,566 km",Petrol,Manual,Rs. 1 Lakh,Chennai,2017,Hyundai
+523,Tata Venture,"68,598 km",Diesel,Manual,Rs. 1.8 Lakh,Chennai,2015,Tata
+524,Tata Bolt,"60,625 km",Petrol,Manual,Rs. 3.1 Lakh,Chennai,2015,Tata
+525,Maruti Suzuki Celerio,"62,565 km",Petrol,AMT,Rs. 4.1 Lakh,Chennai,2015,Maruti
+526,Hyundai i20 Active,"58,888 km",Petrol,Manual,Rs. 6 Lakh,Chennai,2018,Hyundai
+527,Honda Jazz,"87,452 km",Diesel,Manual,Rs. 6.4 Lakh,Chennai,2017,Honda
+528,Tata Tigor,"66,899 km",Petrol,Manual,Rs. 7.5 Lakh,Chennai,2018,Tata
+529,Maruti Suzuki Vitara Brezza,"58,885 km",Diesel,AMT,Rs. 8.5 Lakh,Chennai,2018,Maruti
+530,Maruti Suzuki Swift,"78,000 km",Petrol,Manual,Rs. 2 Lakh,Chennai,2008,Maruti
+531,Mahindra TUV300 Plus,"10,000 km",Diesel,Manual,Rs. 9 Lakh,Chennai,2018,Mahindra
+532,Tata Aria,"70,332 km",Diesel,Manual,Rs. 4.5 Lakh,Chennai,2014,Tata
+533,Maruti Suzuki Baleno,"43,799 km",Diesel,Manual,Rs. 4.95 Lakh,Pune,2017,Maruti
+534,Tata Tigor,"42,000 km",Petrol,AMT,Rs. 5.25 Lakh,Pune,2018,Tata
+535,Tata Tiago,"35,000 km",Petrol,AMT,Rs. 5.45 Lakh,Pune,2019,Tata
+536,Ford EcoSport,"38,000 km",Petrol,Automatic,Rs. 7.9 Lakh,Pune,2018,Ford
+537,Skoda Kushaq,"45,000 km",Petrol,Automatic,Rs. 12.49 Lakh,Pune,2021,Skoda
+538,Maruti Suzuki Alto K10,"52,000 km",Petrol,AMT,Rs. 3.49 Lakh,Pune,2014,Maruti
+539,Hyundai Grand i10,"75,000 km",Petrol,Manual,Rs. 4.2 Lakh,Pune,2015,Hyundai
+540,Maruti Suzuki Celerio,"26,648 km",Petrol,Manual,Rs. 4.9 Lakh,Pune,2018,Maruti
+541,Hyundai Grand i10,"56,000 km",Petrol,Manual,Rs. 5.25 Lakh,Pune,2016,Hyundai
+542,Ford Freestyle,"75,000 km",Diesel,Manual,Rs. 6.49 Lakh,Pune,2019,Ford
+543,Mahindra Marazzo,"85,000 km",Diesel,Manual,Rs. 6.99 Lakh,Pune,2019,Mahindra
+544,Honda WR-V,"57,000 km",Diesel,Manual,Rs. 8.49 Lakh,Pune,2017,Honda
+545,Maruti Suzuki Vitara Brezza,"99,000 km",Diesel,Manual,Rs. 9.21 Lakh,Pune,2019,Maruti
+546,Honda City ZX,"57,000 km",Petrol,Automatic,Rs. 9.8 Lakh,Pune,2018,Honda
+547,Hyundai Creta,"65,000 km",Diesel,Manual,Rs. 9.81 Lakh,Pune,2016,Hyundai
+548,MG Hector Plus,"20,100 km",Diesel,Manual,Rs. 17.49 Lakh,Pune,2021,MG
+549,Mahindra XUV700,"59,000 km",Petrol,Manual,Rs. 24.5 Lakh,Pune,2022,Mahindra
+550,Maruti Suzuki Wagon R,"32,075 km",Petrol,AMT,Rs. 5.5 Lakh,Pune,2018,Maruti
+551,Maruti Suzuki Celerio,"45,000 km",Petrol,AMT,Rs. 3.9 Lakh,Pune,2015,Maruti
+552,Hyundai i20,"38,000 km",Petrol,Manual,Rs. 4.1 Lakh,Pune,2014,Hyundai
+553,Volkswagen Vento,"44,000 km",Petrol,Automatic,Rs. 6.8 Lakh,Pune,2017,Volkswagen
+554,Tata Nexon,"48,434 km",Petrol,Manual,Rs. 6.89 Lakh,Pune,2018,Tata
+555,Maruti Suzuki Ciaz,"48,500 km",Petrol,Manual,Rs. 7.1 Lakh,Pune,2017,Maruti
+556,Volkswagen Ameo,"44,000 km",Diesel,Automatic,Rs. 7.2 Lakh,Pune,2018,Volkswagen
+557,Honda WR-V,"38,236 km",Petrol,Manual,Rs. 8.25 Lakh,Pune,2018,Honda
+558,Kia Sonet,"45,022 km",Diesel,Manual,Rs. 8.75 Lakh,Pune,2021,Kia
+559,Honda City,"31,556 km",Petrol,Manual,Rs. 11.5 Lakh,Pune,2022,Honda
+560,Honda Jazz,"55,000 km",Petrol,Automatic,Rs. 5.4 Lakh,Pune,2015,Honda
+561,Ford EcoSport,"55,276 km",Diesel,Manual,Rs. 6.15 Lakh,Pune,2016,Ford
+562,Maruti Suzuki Baleno,"66,454 km",Petrol,Automatic,Rs. 6.24 Lakh,Pune,2016,Maruti
+563,Volkswagen Polo,"65,000 km",Petrol,Automatic,Rs. 6.7 Lakh,Pune,2016,Volkswagen
+564,Honda City,"71,910 km",Petrol,Manual,Rs. 7 Lakh,Pune,2017,Honda
+565,Volkswagen Ameo,"92,000 km",Diesel,Manual,Rs. 7.49 Lakh,Pune,2018,Volkswagen
+566,Maruti Suzuki Swift DZire,"79,650 km",Diesel,AMT,Rs. 7.75 Lakh,Pune,2018,Maruti
+567,Hyundai Creta,"77,000 km",Diesel,Automatic,Rs. 9.8 Lakh,Pune,2016,Hyundai
+568,Honda Jazz,"10,000 km",Petrol,Manual,Rs. 9.91 Lakh,Pune,2021,Honda
+569,Hyundai Creta,"52,000 km",Petrol,Automatic,Rs. 10.49 Lakh,Pune,2018,Hyundai
+570,Kia Seltos,"15,000 km",Diesel,Manual,Rs. 12.9 Lakh,Pune,2019,Kia
+571,Maruti Suzuki Wagon R,"50,000 km",Petrol,Manual,Rs. 3.85 Lakh,Pune,2016,Maruti
+572,Volkswagen Vento,"36,523 km",Petrol,Manual,Rs. 5.9 Lakh,Pune,2016,Volkswagen
+573,Maruti Suzuki Dzire,"41,139 km",Petrol,AMT,Rs. 7.9 Lakh,Pune,2019,Maruti
+574,Hyundai Aura,"34,650 km",Petrol+CNG,Manual,Rs. 8.7 Lakh,Pune,2020,Hyundai
+575,Maruti Suzuki Vitara Brezza,"50,000 km",Diesel,Manual,Rs. 9.21 Lakh,Pune,2018,Maruti
+576,Mahindra XUV300,"34,000 km",Diesel,AMT,Rs. 12.51 Lakh,Pune,2020,Mahindra
+577,Honda Amaze,"67,284 km",Petrol,Automatic,Rs. 4.25 Lakh,Pune,2015,Honda
+578,Hyundai EON,"16,832 km",Petrol,Manual,Rs. 3 Lakh,Pune,2015,Hyundai
+579,Hyundai i10,"59,000 km",Petrol,Automatic,Rs. 3.5 Lakh,Pune,2012,Hyundai
+580,Maruti Suzuki Wagon R,"82,000 km",Petrol+CNG,Manual,Rs. 3.85 Lakh,Pune,2013,Maruti
+581,Volkswagen Vento,"80,000 km",Diesel,Manual,Rs. 4.71 Lakh,Pune,2014,Volkswagen
+582,Mahindra Scorpio,"1,22,365 km",Diesel,Manual,Rs. 5 Lakh,Pune,2012,Mahindra
+583,Tata Tiago,"95,566 km",Diesel,Manual,Rs. 5.4 Lakh,Pune,2018,Tata
+584,Volkswagen Polo,"65,000 km",Diesel,Manual,Rs. 5.4 Lakh,Pune,2015,Volkswagen
+585,Tata Tiago,"72,229 km",Petrol,AMT,Rs. 6 Lakh,Pune,2019,Tata
+586,Honda City,"87,415 km",Diesel,Manual,Rs. 6.49 Lakh,Pune,2015,Honda
+587,BMW X1,"95,000 km",Diesel,Automatic,Rs. 6.7 Lakh,Pune,2011,BMW
+588,Honda City,"97,885 km",Petrol,Manual,Rs. 6.75 Lakh,Pune,2016,Honda
+589,Hyundai Grand i10 Nios,"70,000 km",Petrol+CNG,Manual,Rs. 6.91 Lakh,Pune,2020,Hyundai
+590,Renault Triber,"53,702 km",Petrol,Manual,Rs. 7.5 Lakh,Pune,2019,Renault
+591,Tata Punch,"14,000 km",Petrol,Manual,Rs. 8.9 Lakh,Pune,2022,Tata
+592,Mahindra Scorpio,"1,20,000 km",Diesel,Manual,Rs. 9.81 Lakh,Pune,2016,Mahindra
+593,Mahindra XUV500,"65,000 km",Diesel,Manual,Rs. 9.9 Lakh,Pune,2015,Mahindra
+594,Tata Hexa,"90,000 km",Diesel,AMT,Rs. 10.91 Lakh,Pune,2017,Tata
+595,Mercedes-Benz C-Class,"64,000 km",Diesel,Automatic,Rs. 14.95 Lakh,Pune,2013,Mercedes-Benz
+596,Mahindra Thar,"60,000 km",Diesel,Manual,Rs. 15.9 Lakh,Pune,2021,Mahindra
+597,Honda City,"42,014 km",Petrol,Manual,Rs. 3 Lakh,Pune,2010,Honda
+598,Maruti Suzuki SX4,"1,19,702 km",Diesel,Manual,Rs. 3.1 Lakh,Pune,2011,Maruti
+599,Mahindra TUV300,"2,30,254 km",Diesel,Manual,Rs. 5.25 Lakh,Pune,2016,Mahindra
+600,Maruti Suzuki Wagon R,"74,000 km",Petrol,Manual,Rs. 2.2 Lakh,Pune,2009,Maruti
+601,Hyundai i10,"77,788 km",Petrol,Automatic,Rs. 2.3 Lakh,Pune,2009,Hyundai
+602,Honda City,"91,000 km",Petrol,Manual,Rs. 3 Lakh,Pune,2010,Honda
+603,Honda Brio,"79,640 km",Petrol,Manual,Rs. 3.1 Lakh,Pune,2013,Honda
+604,Maruti Suzuki Alto K10,"71,000 km",Petrol,Manual,Rs. 3.5 Lakh,Pune,2018,Maruti
+605,Hyundai Grand i10,"1,70,000 km",Petrol,Manual,Rs. 3.8 Lakh,Pune,2014,Hyundai
+606,Honda Amaze,"79,500 km",Diesel,Manual,Rs. 4 Lakh,Pune,2013,Honda
+607,Honda City,"1,01,145 km",Diesel,Manual,Rs. 5.5 Lakh,Pune,2014,Honda
+608,Renault Duster,"1,02,000 km",Diesel,Manual,Rs. 7.1 Lakh,Pune,2017,Renault
+609,Maruti Suzuki Ertiga,"90,000 km",Diesel,Manual,Rs. 7.5 Lakh,Pune,2013,Maruti
+610,Maruti Suzuki Ciaz,"90,000 km",Diesel,Manual,Rs. 7.8 Lakh,Pune,2017,Maruti
+611,Mahindra Scorpio,"1,10,000 km",Diesel,Manual,Rs. 8.61 Lakh,Pune,2014,Mahindra
+612,Maruti Suzuki Ertiga,"1,74,754 km",Petrol,Manual,Rs. 9 Lakh,Pune,2018,Maruti
+613,Mercedes-Benz B-Class,"1,35,000 km",Diesel,Automatic,Rs. 12.99 Lakh,Pune,2015,Mercedes-Benz
+614,Mahindra XUV500,"74,404 km",Diesel,Manual,Rs. 12.99 Lakh,Pune,2018,Mahindra
+615,Mahindra XUV500,"76,000 km",Diesel,Manual,Rs. 14.8 Lakh,Pune,2019,Mahindra
+616,Honda City ZX,"50,000 km",Petrol,Manual,Rs. 2.75 Lakh,Pune,2008,Honda
+617,Toyota Etios,"1,20,000 km",Petrol,Manual,Rs. 3.6 Lakh,Pune,2012,Toyota
+618,Skoda Rapid,"1,24,654 km",Diesel,Manual,Rs. 5.35 Lakh,Pune,2016,Skoda
+619,Mahindra XUV500,"1,40,000 km",Diesel,Manual,Rs. 4.71 Lakh,Pune,2012,Mahindra
+620,Skoda Rapid,"71,655 km",Petrol,Automatic,Rs. 7.25 Lakh,Pune,2017,Skoda
+621,Jeep Compass,"93,235 km",Diesel,Manual,Rs. 12.49 Lakh,Pune,2017,Jeep
+622,Volkswagen Vento,"48,000 km",Petrol,Manual,Rs. 6.71 Lakh,Pune,2017,Volkswagen
+623,Hyundai i10,"74,000 km",Petrol,Manual,Rs. 2.5 Lakh,Pune,2010,Hyundai
+624,Mahindra Verito,"1,12,000 km",Diesel,Manual,Rs. 2.61 Lakh,Pune,2012,Mahindra
+625,Hyundai i10,"55,000 km",Petrol,Manual,Rs. 2.5 Lakh,Pune,2011,Hyundai
+626,Maruti Suzuki Omni,"93,000 km",Petrol,Manual,Rs. 2.95 Lakh,Pune,2017,Maruti
+627,Volkswagen Polo,"40,000 km",Diesel,Manual,Rs. 5.35 Lakh,Pune,2016,Volkswagen
+628,Maruti Suzuki Ertiga,"1,23,000 km",Diesel,Manual,Rs. 6.5 Lakh,Pune,2014,Maruti
+629,Honda City,"29,960 km",Petrol,Automatic,Rs. 8.75 Lakh,Thane,2019,Honda
+630,Maruti Suzuki Swift DZire,"46,569 km",Petrol,AMT,Rs. 6.35 Lakh,Thane,2017,Maruti
+631,Maruti Suzuki Wagon R,"66,113 km",Petrol,AMT,Rs. 3.95 Lakh,Thane,2016,Maruti
+632,Hyundai New Santro,"28,683 km",Petrol,AMT,Rs. 4.85 Lakh,Thane,2018,Hyundai
+633,Maruti Suzuki Baleno,"27,021 km",Petrol,Automatic,Rs. 6.75 Lakh,Thane,2018,Maruti
+634,Skoda Rapid,"9,638 km",Petrol,Automatic,Rs. 7.95 Lakh,Thane,2018,Skoda
+635,Tata Altroz,"20,190 km",Petrol,Manual,Rs. 7.95 Lakh,Thane,2022,Tata
+636,Honda WR-V,"20,840 km",Petrol,Manual,Rs. 8.25 Lakh,Thane,2020,Honda
+637,Maruti Suzuki S-Cross,"22,485 km",Petrol,Automatic,Rs. 9.95 Lakh,Thane,2021,Maruti
+638,Hyundai Venue,"23,683 km",Diesel,Manual,Rs. 10.95 Lakh,Thane,2021,Hyundai
+639,Maruti Suzuki XL6,"21,577 km",Petrol,Automatic,Rs. 11.95 Lakh,Thane,2021,Maruti
+640,Mahindra Marazzo,"7,798 km",Diesel,Manual,Rs. 13.75 Lakh,Thane,2022,Mahindra
+641,Maruti Suzuki Wagon R,"47,847 km",Petrol+CNG,Manual,Rs. 3.45 Lakh,Thane,2014,Maruti
+642,Maruti Suzuki S-Presso,"31,178 km",Petrol,Manual,Rs. 4.95 Lakh,Thane,2020,Maruti
+643,Maruti Suzuki Baleno,"40,442 km",Petrol,Manual,Rs. 5.35 Lakh,Thane,2017,Maruti
+644,Hyundai i20,"37,360 km",Petrol,Manual,Rs. 5.95 Lakh,Thane,2017,Hyundai
+645,Renault Kiger,"33,036 km",Petrol,AMT,Rs. 7.75 Lakh,Thane,2022,Renault
+646,Honda WR-V,"41,845 km",Petrol,Manual,Rs. 7.75 Lakh,Thane,2018,Honda
+647,Tata Nexon,"49,616 km",Petrol,Manual,Rs. 7.95 Lakh,Thane,2020,Tata
+648,Hyundai Venue,"46,107 km",Petrol,Automatic,Rs. 10.65 Lakh,Thane,2021,Hyundai
+649,Honda Jazz,"21,438 km",Petrol,Automatic,Rs. 5.65 Lakh,Thane,2016,Honda
+650,Hyundai Grand i10,"59,982 km",Diesel,Manual,Rs. 5.65 Lakh,Thane,2017,Hyundai
+651,Honda Jazz,"54,767 km",Petrol,Automatic,Rs. 6.45 Lakh,Thane,2018,Honda
+652,Honda Jazz,"24,772 km",Petrol,Automatic,Rs. 6.75 Lakh,Thane,2018,Honda
+653,Renault Kiger,"27,277 km",Petrol,AMT,Rs. 6.95 Lakh,Thane,2021,Renault
+654,Honda WR-V,"59,681 km",Diesel,Manual,Rs. 7.25 Lakh,Thane,2017,Honda
+655,Ford EcoSport,"57,234 km",Petrol,Automatic,Rs. 7.45 Lakh,Thane,2018,Ford
+656,Tata Nexon,"52,912 km",Petrol,AMT,Rs. 8.15 Lakh,Thane,2018,Tata
+657,Tata Nexon,"26,355 km",Petrol,AMT,Rs. 8.25 Lakh,Thane,2018,Tata
+658,Maruti Suzuki Ciaz,"60,442 km",Petrol,Automatic,Rs. 8.65 Lakh,Thane,2019,Maruti
+659,Maruti Suzuki Ciaz,"12,849 km",Petrol,Automatic,Rs. 8.75 Lakh,Thane,2018,Maruti
+660,Honda City ZX,"60,236 km",Petrol,Automatic,Rs. 9.65 Lakh,Thane,2018,Honda
+661,Volkswagen Polo,"49,229 km",Petrol,Manual,Rs. 4.25 Lakh,Thane,2015,Volkswagen
+662,Honda Jazz,"47,649 km",Petrol,Automatic,Rs. 5.55 Lakh,Thane,2016,Honda
+663,Hyundai Aura,"37,461 km",Petrol,AMT,Rs. 7 Lakh,Thane,2021,Hyundai
+664,Tata Nexon,"48,233 km",Diesel,AMT,Rs. 8.25 Lakh,Thane,2018,Tata
+665,Maruti Suzuki S-Presso,"14,769 km",Petrol,AMT,Rs. 4.45 Lakh,Thane,2020,Maruti
+666,Hyundai Grand i10,"54,609 km",Petrol,Automatic,Rs. 4.55 Lakh,Thane,2015,Hyundai
+667,Hyundai i20,"75,457 km",Petrol,Manual,Rs. 5.15 Lakh,Thane,2015,Hyundai
+668,Honda City,"71,826 km",Diesel,Manual,Rs. 5.35 Lakh,Thane,2014,Honda
+669,Ford EcoSport,"50,232 km",Petrol,Automatic,Rs. 5.65 Lakh,Thane,2016,Ford
+670,Maruti Suzuki Baleno,"66,033 km",Petrol,Automatic,Rs. 6.25 Lakh,Thane,2017,Maruti
+671,Volkswagen Vento,"28,278 km",Petrol,Automatic,Rs. 6.35 Lakh,Thane,2016,Volkswagen
+672,Renault Duster,"68,167 km",Diesel,Manual,Rs. 6.85 Lakh,Thane,2016,Renault
+673,Honda City,"52,699 km",Petrol,Automatic,Rs. 6.95 Lakh,Thane,2016,Honda
+674,Maruti Suzuki Celerio,"5,128 km",Petrol,AMT,Rs. 7 Lakh,Thane,2023,Maruti
+675,Renault Duster,"61,753 km",Diesel,Manual,Rs. 7.45 Lakh,Thane,2016,Renault
+676,Honda City ZX,"53,740 km",Petrol,Automatic,Rs. 8.25 Lakh,Thane,2017,Honda
+677,Hyundai Creta,"64,829 km",Petrol,Automatic,Rs. 8.95 Lakh,Thane,2017,Hyundai
+678,Toyota Corolla Altis,"76,225 km",Diesel,Manual,Rs. 9.25 Lakh,Thane,2016,Toyota
+679,Hyundai Creta,"51,651 km",Petrol,Manual,Rs. 9.65 Lakh,Thane,2018,Hyundai
+680,Skoda Octavia,"62,486 km",Petrol,Automatic,Rs. 9.65 Lakh,Thane,2016,Skoda
+681,Mahindra XUV300,"11,801 km",Diesel,Manual,Rs. 10.45 Lakh,Thane,2022,Mahindra
+682,Hyundai Creta,"54,284 km",Diesel,Automatic,Rs. 10.75 Lakh,Thane,2017,Hyundai
+683,Mahindra XUV500,"87,520 km",Diesel,Manual,Rs. 14.65 Lakh,Thane,2019,Mahindra
+684,Skoda Superb,"57,417 km",Diesel,Automatic,Rs. 17.65 Lakh,Thane,2016,Skoda
+685,Maruti Suzuki Celerio,"38,338 km",Petrol,AMT,Rs. 5.35 Lakh,Thane,2018,Maruti
+686,Volkswagen Vento,"48,090 km",Petrol,Automatic,Rs. 6.35 Lakh,Thane,2015,Volkswagen
+687,Hyundai Grand i10,"32,361 km",Petrol,Automatic,Rs. 6.45 Lakh,Thane,2019,Hyundai
+688,Honda City,"34,093 km",Petrol,Manual,Rs. 10.8 Lakh,Thane,2020,Honda
+689,Hyundai Creta,"44,355 km",Petrol,Automatic,Rs. 11.35 Lakh,Thane,2018,Hyundai
+690,Hyundai Xcent,"49,029 km",Petrol,Manual,Rs. 5.45 Lakh,Thane,2017,Hyundai
+691,Volkswagen Vento,"79,906 km",Petrol,Automatic,Rs. 4.55 Lakh,Thane,2014,Volkswagen
+692,Volkswagen Polo,"83,906 km",Petrol,Manual,Rs. 4.75 Lakh,Thane,2014,Volkswagen
+693,Hyundai Verna,"54,375 km",Petrol,Automatic,Rs. 5.95 Lakh,Thane,2015,Hyundai
+694,Hyundai Verna,"60,085 km",Petrol,Automatic,Rs. 6.75 Lakh,Thane,2016,Hyundai
+695,Honda BR-V,"58,172 km",Petrol,Automatic,Rs. 6.85 Lakh,Thane,2016,Honda
+696,Hyundai Creta,"75,213 km",Petrol,Manual,Rs. 7.95 Lakh,Thane,2016,Hyundai
+697,Hyundai Creta,"65,657 km",Petrol,Automatic,Rs. 8.65 Lakh,Thane,2016,Hyundai
+698,Mercedes-Benz M-Class,"98,774 km",Diesel,Automatic,Rs. 21.75 Lakh,Thane,2015,Mercedes-Benz
+699,Skoda Rapid,"63,333 km",Diesel,Manual,Rs. 5.35 Lakh,Thane,2015,Skoda
+700,Renault Duster,"62,140 km",Diesel,AMT,Rs. 7.75 Lakh,Thane,2017,Renault
+701,Maruti Suzuki Ertiga,"53,081 km",Diesel,Manual,Rs. 8.15 Lakh,Thane,2016,Maruti
+702,Skoda Rapid,"38,104 km",Petrol,Automatic,Rs. 6.45 Lakh,Thane,2016,Skoda
+703,Jeep Compass,"45,456 km",Petrol,Automatic,Rs. 12.75 Lakh,Thane,2017,Jeep
+704,Skoda Rapid,"73,490 km",Petrol,Automatic,Rs. 3.95 Lakh,Thane,2013,Skoda
+705,Hyundai i20,"72,154 km",Petrol,Manual,Rs. 3.1 Lakh,Thane,2010,Hyundai
+706,Maruti Suzuki Wagon R,"27,522 km",Petrol+CNG,Manual,Rs. 4.25 Lakh,Thane,2017,Maruti
+707,Honda WR-V,"21,000 km",Petrol,Manual,Rs. 6.25 Lakh,Thane,2018,Honda
+708,Maruti Suzuki Celerio,"31,527 km",Petrol,AMT,Rs. 3.9 Lakh,Thane,2014,Maruti
+709,Honda BR-V,"40,995 km",Petrol,Manual,Rs. 7.25 Lakh,Thane,2017,Honda
+710,Hyundai Venue,"33,000 km",Petrol,Manual,Rs. 9.25 Lakh,Thane,2019,Hyundai
+711,Maruti Suzuki Swift DZire,"57,649 km",Petrol,Manual,Rs. 4.35 Lakh,Thane,2014,Maruti
+712,Hyundai Xcent,0 km,Petrol,Manual,Rs. 4.75 Lakh,Thane,2015,Hyundai
+713,Maruti Suzuki Swift,"7,00,000 km",Petrol,AMT,Rs. 5.85 Lakh,Thane,2018,Maruti
+714,Maruti Suzuki Ciaz,"67,000 km",Petrol,Manual,Rs. 7.75 Lakh,Thane,2018,Maruti
+715,Datsun Go Plus,"47,235 km",Petrol,Manual,Rs. 2.75 Lakh,Thane,2016,Datsun
+716,Hyundai Elite i20,"70,000 km",Diesel,Manual,Rs. 4.8 Lakh,Thane,2016,Hyundai
+717,Tata Tiago,"66,877 km",Petrol,AMT,Rs. 4.85 Lakh,Thane,2017,Tata
+718,Tata Tigor,"5,340 km",Petrol,AMT,Rs. 6.15 Lakh,Thane,2018,Tata
+719,Maruti Suzuki Ertiga,"80,000 km",Petrol+CNG,Manual,Rs. 7.5 Lakh,Thane,2016,Maruti
+720,Maruti Suzuki Vitara Brezza,"26,419 km",Diesel,AMT,Rs. 9.15 Lakh,Thane,2018,Maruti
+721,BMW X1,"98,000 km",Diesel,Automatic,Rs. 17.75 Lakh,Thane,2016,BMW
+722,Mercedes-Benz GL-Class,"71,518 km",Diesel,Automatic,Rs. 35.5 Lakh,Thane,2015,Mercedes-Benz
+723,Renault Kwid,"40,104 km",Petrol,AMT,Rs. 3.65 Lakh,Thane,2017,Renault
+724,Honda Amaze,"33,100 km",Petrol,Manual,Rs. 4.25 Lakh,Thane,2016,Honda
+725,Maruti Suzuki Celerio,"42,460 km",Petrol+CNG,Manual,Rs. 4.9 Lakh,Thane,2018,Maruti
+726,Renault Duster,"32,147 km",Diesel,Manual,Rs. 5.75 Lakh,Thane,2015,Renault
+727,Hyundai i20,"39,436 km",Petrol,Manual,Rs. 5.95 Lakh,Thane,2016,Hyundai
+728,Tata Nexon,"32,535 km",Diesel,AMT,Rs. 7.65 Lakh,Thane,2018,Tata
+729,Honda City,"43,620 km",Petrol,Automatic,Rs. 7.75 Lakh,Thane,2017,Honda
+730,Maruti Suzuki Vitara Brezza,"49,313 km",Diesel,Manual,Rs. 7.75 Lakh,Thane,2018,Maruti
+731,Tata Nexon,"41,125 km",Petrol,Manual,Rs. 9.45 Lakh,Thane,2019,Tata
+732,Honda City,"33,889 km",Petrol,Automatic,Rs. 8.2 Lakh,Thane,2019,Honda
+733,Maruti Suzuki Swift DZire,"67,944 km",Petrol,AMT,Rs. 3.95 Lakh,Thane,2012,Maruti
+734,Ford EcoSport,"53,037 km",Petrol,Automatic,Rs. 5.1 Lakh,Thane,2014,Ford
+735,Ford Freestyle,"50,873 km",Petrol,Manual,Rs. 5.45 Lakh,Thane,2018,Ford
+736,Volkswagen Ameo,"50,013 km",Diesel,Manual,Rs. 6.25 Lakh,Thane,2016,Volkswagen
+737,Maruti Suzuki Vitara Brezza,"70,638 km",Diesel,Manual,Rs. 7.9 Lakh,Thane,2019,Maruti
+738,Hyundai Venue,"60,000 km",Petrol,Manual,Rs. 8.5 Lakh,Thane,2019,Hyundai
+739,Hyundai Creta,"56,769 km",Petrol,Automatic,Rs. 8.55 Lakh,Thane,2016,Hyundai
+740,Hyundai Creta,"59,478 km",Petrol,Manual,Rs. 8.55 Lakh,Thane,2017,Hyundai
+741,Tata Nexon EV,"17,831 km",Electric,Automatic,Rs. 11.25 Lakh,Thane,2022,Tata
+742,Kia Seltos,"58,246 km",Petrol,Automatic,Rs. 12.95 Lakh,Thane,2019,Kia
+743,Toyota Innova Crysta,"59,088 km",Diesel,Manual,Rs. 22 Lakh,Thane,2021,Toyota
+744,Honda City,"36,155 km",Petrol,Manual,Rs. 9.95 Lakh,Thane,2020,Honda
+745,Nissan Terrano,"88,017 km",Diesel,Manual,Rs. 4.75 Lakh,Thane,2013,Nissan
+746,Skoda Rapid,"78,107 km",Petrol,Automatic,Rs. 5.25 Lakh,Thane,2015,Skoda
+747,Ford EcoSport,"66,129 km",Petrol,Automatic,Rs. 5.65 Lakh,Thane,2015,Ford
+748,Maruti Suzuki Ciaz,"74,651 km",Diesel,Manual,Rs. 6.25 Lakh,Thane,2016,Maruti
+749,Hyundai Verna,"52,215 km",Diesel,Automatic,Rs. 6.45 Lakh,Thane,2016,Hyundai
+750,Toyota Corolla Altis,"63,503 km",Petrol,Automatic,Rs. 10.35 Lakh,Thane,2018,Toyota
+751,Tata Nexon EV,"33,129 km",Electric,Automatic,Rs. 12.15 Lakh,Thane,2022,Tata
+752,Volkswagen Vento,"60,030 km",Diesel,Manual,Rs. 3.95 Lakh,Thane,2012,Volkswagen
+753,Skoda Rapid,"65,105 km",Petrol,Automatic,Rs. 5.95 Lakh,Thane,2016,Skoda
+754,Toyota Fortuner,"28,000 km",Petrol,Automatic,Rs. 40 Lakh,Chandigarh,2023,Toyota
+755,Maruti Suzuki Alto 800,"62,000 km",Petrol,Manual,Rs. 3.5 Lakh,Chandigarh,2019,Maruti
+756,Maruti Suzuki Swift DZire,"85,450 km",Diesel,Manual,Rs. 3.85 Lakh,Chandigarh,2014,Maruti
+757,Hyundai Verna,"80,000 km",Petrol,Manual,Rs. 9 Lakh,Chandigarh,2019,Hyundai
+758,Maruti Suzuki Baleno,"21,458 km",Petrol,Automatic,Rs. 6.25 Lakh,Chandigarh,2017,Maruti
+759,Mahindra Thar,"23,000 km",Diesel,Manual,Rs. 15 Lakh,Chandigarh,2023,Mahindra
+760,Renault Kwid,"1,05,000 km",Petrol,Manual,Rs. 2.5 Lakh,Chandigarh,2018,Renault
+761,Maruti Suzuki Ignis,"36,000 km",Petrol,Manual,Rs. 4.2 Lakh,Chandigarh,2018,Maruti
+762,Volkswagen Polo,"50,000 km",Petrol,Manual,Rs. 5.5 Lakh,Chandigarh,2019,Volkswagen
+763,Maruti Suzuki Alto,"1,50,000 km",Petrol,Manual,Rs. 1 Lakh,Chandigarh,2006,Maruti
+764,Maruti Suzuki Alto,"1,10,000 km",Petrol,Manual,Rs. 1.5 Lakh,Chandigarh,2009,Maruti
+765,Maruti Suzuki S-Cross,"85,000 km",Petrol,Manual,Rs. 6.5 Lakh,Chandigarh,2021,Maruti
+766,Maruti Suzuki Vitara Brezza,"64,000 km",Diesel,Manual,Rs. 7 Lakh,Chandigarh,2019,Maruti
+767,Hyundai Creta,"80,000 km",Petrol,Manual,Rs. 8.5 Lakh,Chandigarh,2019,Hyundai
+768,Tata Indigo eCS,"1,50,000 km",Diesel,Manual,Rs. 1 Lakh,Chandigarh,2015,Tata
+769,Toyota Etios,"1,80,000 km",Diesel,Manual,Rs. 2 Lakh,Chandigarh,2012,Toyota
+770,Honda Amaze,"1,35,000 km",Diesel,Manual,Rs. 3 Lakh,Chandigarh,2015,Honda
+771,Maruti Suzuki S-Cross,"1,50,000 km",Diesel,Manual,Rs. 6.5 Lakh,Chandigarh,2015,Maruti
+772,Hyundai Verna,"1,35,000 km",Diesel,Manual,Rs. 9 Lakh,Chandigarh,2019,Hyundai
+773,Maruti Suzuki Alto K10,"72,100 km",Petrol,AMT,Rs. 3.4 Lakh,Chandigarh,2016,Maruti
+774,Hyundai Creta,"97,600 km",Diesel,Manual,Rs. 9.2 Lakh,Chandigarh,2019,Hyundai

@@ -8,10 +8,6 @@ This project is a machine learning application designed to predict the value of 
 - [Data Collection](#data-collection)
 - [Model Building](#model-building)
 - [Deployment](#deployment)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
